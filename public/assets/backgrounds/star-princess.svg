@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800"><defs>
+      <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5ff"/><stop offset=".55" stop-color="#8e8eea"/><stop offset="1" stop-color="#d597e8"/></linearGradient>
+      <radialGradient id="glow"><stop stop-color="#ffe38a" stop-opacity=".75"/><stop offset="1" stop-color="#ffe38a" stop-opacity="0"/></radialGradient>
+      <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+      <pattern id="dots" width="58" height="58" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="5" fill="#d597e8" opacity=".16"/><circle cx="42" cy="34" r="3" fill="#ffe38a" opacity=".2"/></pattern>
+      <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#d597e8" stroke-opacity=".16" stroke-width="2"/></pattern>
+      <pattern id="waves" width="120" height="42" patternUnits="userSpaceOnUse"><path d="M0 21 Q30 0 60 21 T120 21" fill="none" stroke="#d597e8" stroke-opacity=".20" stroke-width="5"/></pattern>
+      <pattern id="stars" width="110" height="110" patternUnits="userSpaceOnUse"><path d="M24 8l5 12 13 1-10 8 3 13-11-7-11 7 3-13-10-8 13-1z" fill="#ffe38a" opacity=".25"/><circle cx="82" cy="72" r="4" fill="#d597e8" opacity=".3"/></pattern>
+    </defs><rect width="1200" height="800" rx="70" fill="url(#base)"/><rect width="1200" height="800" fill="url(#stars)"/><circle cx="1030" cy="150" r="95" fill="#ffe38a" opacity=".68"/><circle cx="1065" cy="120" r="95" fill="#fff5ff" opacity=".72"/><rect x="12" y="12" width="1176" height="776" rx="60" fill="none" stroke="#ffe38a" stroke-opacity=".22" stroke-width="5"/></svg>
