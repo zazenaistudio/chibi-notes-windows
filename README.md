@@ -42,7 +42,7 @@ La identidad del proyecto está protagonizada por **Chibi**, una pequeña mascot
 - 📝 **Crea y edita notas** con texto enriquecido, iconos y contenido visual.
 - 🗂️ **Organiza tus ideas por grupos, categorías y etiquetas**.
 - ✅ **Gestiona checklists y tareas pendientes** desde cada nota.
-- 🪟 **Convierte notas en widgets visuales 9:16** para el escritorio.
+- 🖌️ **Convierte notas en widgets visuales 9:16** para el escritorio.
 - 🎨 **Personaliza fondos, mascotas, marcos, colores, tipografías y sonidos**.
 - 🎙️ **Convierte voz en texto de forma local** en español e inglés.
 - 🔔 **Programa recordatorios nativos de Windows**.
