@@ -1,0 +1,3800 @@
+[
+  {
+    "id": "navegacion_y_edicion-001_inicio",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Inicio",
+    "nameEn": "Home",
+    "src": "/assets/note-icons/navegacion_y_edicion/001_inicio.png"
+  },
+  {
+    "id": "navegacion_y_edicion-002_ajustes",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Ajustes",
+    "nameEn": "Settings",
+    "src": "/assets/note-icons/navegacion_y_edicion/002_ajustes.png"
+  },
+  {
+    "id": "navegacion_y_edicion-003_anadir",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Anadir",
+    "nameEn": "Anadir",
+    "src": "/assets/note-icons/navegacion_y_edicion/003_anadir.png"
+  },
+  {
+    "id": "navegacion_y_edicion-004_restar",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Restar",
+    "nameEn": "Restar",
+    "src": "/assets/note-icons/navegacion_y_edicion/004_restar.png"
+  },
+  {
+    "id": "navegacion_y_edicion-005_confirmar",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Confirmar",
+    "nameEn": "Confirmar",
+    "src": "/assets/note-icons/navegacion_y_edicion/005_confirmar.png"
+  },
+  {
+    "id": "navegacion_y_edicion-006_minimizar",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Minimizar",
+    "nameEn": "Minimizar",
+    "src": "/assets/note-icons/navegacion_y_edicion/006_minimizar.png"
+  },
+  {
+    "id": "navegacion_y_edicion-007_flecha_derecha_1",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Flecha derecha 1",
+    "nameEn": "Arrow right 1",
+    "src": "/assets/note-icons/navegacion_y_edicion/007_flecha_derecha_1.png"
+  },
+  {
+    "id": "navegacion_y_edicion-008_flecha_derecha_2",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Flecha derecha 2",
+    "nameEn": "Arrow right 2",
+    "src": "/assets/note-icons/navegacion_y_edicion/008_flecha_derecha_2.png"
+  },
+  {
+    "id": "navegacion_y_edicion-009_corazon",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Corazon",
+    "nameEn": "Heart",
+    "src": "/assets/note-icons/navegacion_y_edicion/009_corazon.png"
+  },
+  {
+    "id": "navegacion_y_edicion-010_editar_lapiz_1",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Editar lapiz 1",
+    "nameEn": "Edit lapiz 1",
+    "src": "/assets/note-icons/navegacion_y_edicion/010_editar_lapiz_1.png"
+  },
+  {
+    "id": "navegacion_y_edicion-011_buscar_1",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Buscar 1",
+    "nameEn": "Search 1",
+    "src": "/assets/note-icons/navegacion_y_edicion/011_buscar_1.png"
+  },
+  {
+    "id": "navegacion_y_edicion-012_archivar_1",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Archivar 1",
+    "nameEn": "Archivar 1",
+    "src": "/assets/note-icons/navegacion_y_edicion/012_archivar_1.png"
+  },
+  {
+    "id": "navegacion_y_edicion-013_favorito_estrella",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Favorito estrella",
+    "nameEn": "Favorito star",
+    "src": "/assets/note-icons/navegacion_y_edicion/013_favorito_estrella.png"
+  },
+  {
+    "id": "navegacion_y_edicion-014_archivar_2",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Archivar 2",
+    "nameEn": "Archivar 2",
+    "src": "/assets/note-icons/navegacion_y_edicion/014_archivar_2.png"
+  },
+  {
+    "id": "navegacion_y_edicion-015_paleta_color_1",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Paleta color 1",
+    "nameEn": "Paleta color 1",
+    "src": "/assets/note-icons/navegacion_y_edicion/015_paleta_color_1.png"
+  },
+  {
+    "id": "navegacion_y_edicion-016_imagen_adjunta",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Imagen adjunta",
+    "nameEn": "Image adjunta",
+    "src": "/assets/note-icons/navegacion_y_edicion/016_imagen_adjunta.png"
+  },
+  {
+    "id": "navegacion_y_edicion-017_papelera",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Papelera",
+    "nameEn": "Trash",
+    "src": "/assets/note-icons/navegacion_y_edicion/017_papelera.png"
+  },
+  {
+    "id": "navegacion_y_edicion-018_buscar_2",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Buscar 2",
+    "nameEn": "Search 2",
+    "src": "/assets/note-icons/navegacion_y_edicion/018_buscar_2.png"
+  },
+  {
+    "id": "navegacion_y_edicion-019_editar_lapiz_2",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Editar lapiz 2",
+    "nameEn": "Edit lapiz 2",
+    "src": "/assets/note-icons/navegacion_y_edicion/019_editar_lapiz_2.png"
+  },
+  {
+    "id": "navegacion_y_edicion-020_paleta_color_2",
+    "themeId": "navegacion_y_edicion",
+    "themeEs": "Navegación y edición",
+    "themeEn": "Navigation & editing",
+    "nameEs": "Paleta color 2",
+    "nameEn": "Paleta color 2",
+    "src": "/assets/note-icons/navegacion_y_edicion/020_paleta_color_2.png"
+  },
+  {
+    "id": "multimedia_y_sonido-001_guardar",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Guardar",
+    "nameEn": "Save",
+    "src": "/assets/note-icons/multimedia_y_sonido/001_guardar.png"
+  },
+  {
+    "id": "multimedia_y_sonido-002_carpeta",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Carpeta",
+    "nameEn": "Folder",
+    "src": "/assets/note-icons/multimedia_y_sonido/002_carpeta.png"
+  },
+  {
+    "id": "multimedia_y_sonido-003_subir",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Subir",
+    "nameEn": "Upload",
+    "src": "/assets/note-icons/multimedia_y_sonido/003_subir.png"
+  },
+  {
+    "id": "multimedia_y_sonido-004_camara",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Camara",
+    "nameEn": "Camera",
+    "src": "/assets/note-icons/multimedia_y_sonido/004_camara.png"
+  },
+  {
+    "id": "multimedia_y_sonido-005_foto",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Foto",
+    "nameEn": "Photo",
+    "src": "/assets/note-icons/multimedia_y_sonido/005_foto.png"
+  },
+  {
+    "id": "multimedia_y_sonido-006_reproducir",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Reproducir",
+    "nameEn": "Reproducir",
+    "src": "/assets/note-icons/multimedia_y_sonido/006_reproducir.png"
+  },
+  {
+    "id": "multimedia_y_sonido-007_musica",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Musica",
+    "nameEn": "Music",
+    "src": "/assets/note-icons/multimedia_y_sonido/007_musica.png"
+  },
+  {
+    "id": "multimedia_y_sonido-008_microfono",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Microfono",
+    "nameEn": "Microphone",
+    "src": "/assets/note-icons/multimedia_y_sonido/008_microfono.png"
+  },
+  {
+    "id": "multimedia_y_sonido-009_campana",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Campana",
+    "nameEn": "Bell",
+    "src": "/assets/note-icons/multimedia_y_sonido/009_campana.png"
+  },
+  {
+    "id": "multimedia_y_sonido-010_altavoz",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Altavoz",
+    "nameEn": "Speaker",
+    "src": "/assets/note-icons/multimedia_y_sonido/010_altavoz.png"
+  },
+  {
+    "id": "multimedia_y_sonido-011_silenciar",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Silenciar",
+    "nameEn": "Silenciar",
+    "src": "/assets/note-icons/multimedia_y_sonido/011_silenciar.png"
+  },
+  {
+    "id": "multimedia_y_sonido-012_sol",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Sol",
+    "nameEn": "Sol",
+    "src": "/assets/note-icons/multimedia_y_sonido/012_sol.png"
+  },
+  {
+    "id": "multimedia_y_sonido-013_luna_magica",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Luna magica",
+    "nameEn": "Moon magica",
+    "src": "/assets/note-icons/multimedia_y_sonido/013_luna_magica.png"
+  },
+  {
+    "id": "multimedia_y_sonido-014_luna",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Luna",
+    "nameEn": "Moon",
+    "src": "/assets/note-icons/multimedia_y_sonido/014_luna.png"
+  },
+  {
+    "id": "multimedia_y_sonido-015_campana_sonando",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Campana sonando",
+    "nameEn": "Bell sonando",
+    "src": "/assets/note-icons/multimedia_y_sonido/015_campana_sonando.png"
+  },
+  {
+    "id": "multimedia_y_sonido-016_bloquear",
+    "themeId": "multimedia_y_sonido",
+    "themeEs": "Multimedia y sonido",
+    "themeEn": "Media & sound",
+    "nameEs": "Bloquear",
+    "nameEn": "Bloquear",
+    "src": "/assets/note-icons/multimedia_y_sonido/016_bloquear.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-001_desbloquear",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Desbloquear",
+    "nameEn": "Desbloquear",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/001_desbloquear.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-002_ver",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Ver",
+    "nameEn": "Ver",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/002_ver.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-003_ocultar",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Ocultar",
+    "nameEn": "Ocultar",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/003_ocultar.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-004_usuarios",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Usuarios",
+    "nameEn": "Users",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/004_usuarios.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-005_chat",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Chat",
+    "nameEn": "Chat",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/005_chat.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-006_enviar",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Enviar",
+    "nameEn": "Enviar",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/006_enviar.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-007_llamada",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Llamada",
+    "nameEn": "Llamada",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/007_llamada.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-008_correo_1",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Correo 1",
+    "nameEn": "Mail 1",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/008_correo_1.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-009_calendario_1",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Calendario 1",
+    "nameEn": "Calendar 1",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/009_calendario_1.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-010_reloj_1",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Reloj 1",
+    "nameEn": "Clock 1",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/010_reloj_1.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-011_correo_2",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Correo 2",
+    "nameEn": "Mail 2",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/011_correo_2.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-012_correo_3",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Correo 3",
+    "nameEn": "Mail 3",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/012_correo_3.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-013_calendario_2",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Calendario 2",
+    "nameEn": "Calendar 2",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/013_calendario_2.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-014_reloj_2",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Reloj 2",
+    "nameEn": "Clock 2",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/014_reloj_2.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-015_marcador_1",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Marcador 1",
+    "nameEn": "Marcador 1",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/015_marcador_1.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-016_chincheta",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Chincheta",
+    "nameEn": "Chincheta",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/016_chincheta.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-017_maletin_correo",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Maletin correo",
+    "nameEn": "Maletin mail",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/017_maletin_correo.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-018_marcador_2",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Marcador 2",
+    "nameEn": "Marcador 2",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/018_marcador_2.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-019_etiqueta",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Etiqueta",
+    "nameEn": "Etiqueta",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/019_etiqueta.png"
+  },
+  {
+    "id": "comunicacion_y_organizacion-020_ubicacion_favorita",
+    "themeId": "comunicacion_y_organizacion",
+    "themeEs": "Comunicación y organización",
+    "themeEn": "Communication & organization",
+    "nameEs": "Ubicacion favorita",
+    "nameEn": "Ubicacion favorita",
+    "src": "/assets/note-icons/comunicacion_y_organizacion/020_ubicacion_favorita.png"
+  },
+  {
+    "id": "sistema_y_nube-001_brujula",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Brujula",
+    "nameEn": "Brujula",
+    "src": "/assets/note-icons/sistema_y_nube/001_brujula.png"
+  },
+  {
+    "id": "sistema_y_nube-002_mundo",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Mundo",
+    "nameEn": "World",
+    "src": "/assets/note-icons/sistema_y_nube/002_mundo.png"
+  },
+  {
+    "id": "sistema_y_nube-003_wifi",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Wifi",
+    "nameEn": "Wifi",
+    "src": "/assets/note-icons/sistema_y_nube/003_wifi.png"
+  },
+  {
+    "id": "sistema_y_nube-004_bateria",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Bateria",
+    "nameEn": "Battery",
+    "src": "/assets/note-icons/sistema_y_nube/004_bateria.png"
+  },
+  {
+    "id": "sistema_y_nube-005_bateria_cargando",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Bateria cargando",
+    "nameEn": "Battery cargando",
+    "src": "/assets/note-icons/sistema_y_nube/005_bateria_cargando.png"
+  },
+  {
+    "id": "sistema_y_nube-006_nube",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Nube",
+    "nameEn": "Cloud",
+    "src": "/assets/note-icons/sistema_y_nube/006_nube.png"
+  },
+  {
+    "id": "sistema_y_nube-007_subir_nube",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Subir nube",
+    "nameEn": "Upload cloud",
+    "src": "/assets/note-icons/sistema_y_nube/007_subir_nube.png"
+  },
+  {
+    "id": "sistema_y_nube-008_bajar_nube",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Bajar nube",
+    "nameEn": "Bajar cloud",
+    "src": "/assets/note-icons/sistema_y_nube/008_bajar_nube.png"
+  },
+  {
+    "id": "sistema_y_nube-009_deshacer_1",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Deshacer 1",
+    "nameEn": "Undo 1",
+    "src": "/assets/note-icons/sistema_y_nube/009_deshacer_1.png"
+  },
+  {
+    "id": "sistema_y_nube-010_rehacer_1",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Rehacer 1",
+    "nameEn": "Redo 1",
+    "src": "/assets/note-icons/sistema_y_nube/010_rehacer_1.png"
+  },
+  {
+    "id": "sistema_y_nube-011_lista",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Lista",
+    "nameEn": "List",
+    "src": "/assets/note-icons/sistema_y_nube/011_lista.png"
+  },
+  {
+    "id": "sistema_y_nube-012_sincronizar",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Sincronizar",
+    "nameEn": "Sync",
+    "src": "/assets/note-icons/sistema_y_nube/012_sincronizar.png"
+  },
+  {
+    "id": "sistema_y_nube-013_girar_izquierda_1",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Girar izquierda 1",
+    "nameEn": "Girar left 1",
+    "src": "/assets/note-icons/sistema_y_nube/013_girar_izquierda_1.png"
+  },
+  {
+    "id": "sistema_y_nube-014_girar_derecha_1",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Girar derecha 1",
+    "nameEn": "Girar right 1",
+    "src": "/assets/note-icons/sistema_y_nube/014_girar_derecha_1.png"
+  },
+  {
+    "id": "sistema_y_nube-015_controles",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Controles",
+    "nameEn": "Controls",
+    "src": "/assets/note-icons/sistema_y_nube/015_controles.png"
+  },
+  {
+    "id": "sistema_y_nube-016_filtro_1",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Filtro 1",
+    "nameEn": "Filtro 1",
+    "src": "/assets/note-icons/sistema_y_nube/016_filtro_1.png"
+  },
+  {
+    "id": "sistema_y_nube-017_girar_izquierda_2",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Girar izquierda 2",
+    "nameEn": "Girar left 2",
+    "src": "/assets/note-icons/sistema_y_nube/017_girar_izquierda_2.png"
+  },
+  {
+    "id": "sistema_y_nube-018_girar_derecha_2",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Girar derecha 2",
+    "nameEn": "Girar right 2",
+    "src": "/assets/note-icons/sistema_y_nube/018_girar_derecha_2.png"
+  },
+  {
+    "id": "sistema_y_nube-019_ajustes_lista",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Ajustes lista",
+    "nameEn": "Settings list",
+    "src": "/assets/note-icons/sistema_y_nube/019_ajustes_lista.png"
+  },
+  {
+    "id": "sistema_y_nube-020_filtro_2",
+    "themeId": "sistema_y_nube",
+    "themeEs": "Sistema y nube",
+    "themeEn": "System & cloud",
+    "nameEs": "Filtro 2",
+    "nameEn": "Filtro 2",
+    "src": "/assets/note-icons/sistema_y_nube/020_filtro_2.png"
+  },
+  {
+    "id": "recompensas_y_juegos-001_carrito",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Carrito",
+    "nameEn": "Cart",
+    "src": "/assets/note-icons/recompensas_y_juegos/001_carrito.png"
+  },
+  {
+    "id": "recompensas_y_juegos-002_regalo",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Regalo",
+    "nameEn": "Gift",
+    "src": "/assets/note-icons/recompensas_y_juegos/002_regalo.png"
+  },
+  {
+    "id": "recompensas_y_juegos-003_trofeo",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Trofeo",
+    "nameEn": "Trophy",
+    "src": "/assets/note-icons/recompensas_y_juegos/003_trofeo.png"
+  },
+  {
+    "id": "recompensas_y_juegos-004_diamante",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Diamante",
+    "nameEn": "Diamante",
+    "src": "/assets/note-icons/recompensas_y_juegos/004_diamante.png"
+  },
+  {
+    "id": "recompensas_y_juegos-005_llave",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Llave",
+    "nameEn": "Key",
+    "src": "/assets/note-icons/recompensas_y_juegos/005_llave.png"
+  },
+  {
+    "id": "recompensas_y_juegos-006_escudo",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Escudo",
+    "nameEn": "Shield",
+    "src": "/assets/note-icons/recompensas_y_juegos/006_escudo.png"
+  },
+  {
+    "id": "recompensas_y_juegos-007_corona",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Corona",
+    "nameEn": "Corona",
+    "src": "/assets/note-icons/recompensas_y_juegos/007_corona.png"
+  },
+  {
+    "id": "recompensas_y_juegos-008_escudo_confirmado",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Escudo confirmado",
+    "nameEn": "Shield confirmado",
+    "src": "/assets/note-icons/recompensas_y_juegos/008_escudo_confirmado.png"
+  },
+  {
+    "id": "recompensas_y_juegos-009_rayo",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Rayo",
+    "nameEn": "Rayo",
+    "src": "/assets/note-icons/recompensas_y_juegos/009_rayo.png"
+  },
+  {
+    "id": "recompensas_y_juegos-010_mariquita",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Mariquita",
+    "nameEn": "Mariquita",
+    "src": "/assets/note-icons/recompensas_y_juegos/010_mariquita.png"
+  },
+  {
+    "id": "recompensas_y_juegos-011_hoja",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Hoja",
+    "nameEn": "Hoja",
+    "src": "/assets/note-icons/recompensas_y_juegos/011_hoja.png"
+  },
+  {
+    "id": "recompensas_y_juegos-012_cohete_1",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Cohete 1",
+    "nameEn": "Cohete 1",
+    "src": "/assets/note-icons/recompensas_y_juegos/012_cohete_1.png"
+  },
+  {
+    "id": "recompensas_y_juegos-013_cohete_2",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Cohete 2",
+    "nameEn": "Cohete 2",
+    "src": "/assets/note-icons/recompensas_y_juegos/013_cohete_2.png"
+  },
+  {
+    "id": "recompensas_y_juegos-014_fuego",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Fuego",
+    "nameEn": "Fuego",
+    "src": "/assets/note-icons/recompensas_y_juegos/014_fuego.png"
+  },
+  {
+    "id": "recompensas_y_juegos-015_huella",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Huella",
+    "nameEn": "Huella",
+    "src": "/assets/note-icons/recompensas_y_juegos/015_huella.png"
+  },
+  {
+    "id": "recompensas_y_juegos-016_mando",
+    "themeId": "recompensas_y_juegos",
+    "themeEs": "Recompensas y juegos",
+    "themeEn": "Rewards & games",
+    "nameEs": "Mando",
+    "nameEn": "Controller",
+    "src": "/assets/note-icons/recompensas_y_juegos/016_mando.png"
+  },
+  {
+    "id": "documentos_y_datos-001_libro",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Libro",
+    "nameEn": "Book",
+    "src": "/assets/note-icons/documentos_y_datos/001_libro.png"
+  },
+  {
+    "id": "documentos_y_datos-002_cuaderno",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Cuaderno",
+    "nameEn": "Notebook",
+    "src": "/assets/note-icons/documentos_y_datos/002_cuaderno.png"
+  },
+  {
+    "id": "documentos_y_datos-003_portapapeles_tareas_1",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Portapapeles tareas 1",
+    "nameEn": "Clipboard tasks 1",
+    "src": "/assets/note-icons/documentos_y_datos/003_portapapeles_tareas_1.png"
+  },
+  {
+    "id": "documentos_y_datos-004_portapapeles_lista_1",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Portapapeles lista 1",
+    "nameEn": "Clipboard list 1",
+    "src": "/assets/note-icons/documentos_y_datos/004_portapapeles_lista_1.png"
+  },
+  {
+    "id": "documentos_y_datos-005_cuadricula",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Cuadricula",
+    "nameEn": "Grid",
+    "src": "/assets/note-icons/documentos_y_datos/005_cuadricula.png"
+  },
+  {
+    "id": "documentos_y_datos-006_panel",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Panel",
+    "nameEn": "Panel",
+    "src": "/assets/note-icons/documentos_y_datos/006_panel.png"
+  },
+  {
+    "id": "documentos_y_datos-007_grafico_barras",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Grafico barras",
+    "nameEn": "Chart bars",
+    "src": "/assets/note-icons/documentos_y_datos/007_grafico_barras.png"
+  },
+  {
+    "id": "documentos_y_datos-008_grafico_circular",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Grafico circular",
+    "nameEn": "Chart pie",
+    "src": "/assets/note-icons/documentos_y_datos/008_grafico_circular.png"
+  },
+  {
+    "id": "documentos_y_datos-009_tabla_1",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Tabla 1",
+    "nameEn": "Table 1",
+    "src": "/assets/note-icons/documentos_y_datos/009_tabla_1.png"
+  },
+  {
+    "id": "documentos_y_datos-010_enlace",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Enlace",
+    "nameEn": "Link",
+    "src": "/assets/note-icons/documentos_y_datos/010_enlace.png"
+  },
+  {
+    "id": "documentos_y_datos-011_tijeras_1",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Tijeras 1",
+    "nameEn": "Scissors 1",
+    "src": "/assets/note-icons/documentos_y_datos/011_tijeras_1.png"
+  },
+  {
+    "id": "documentos_y_datos-012_documento_1",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Documento 1",
+    "nameEn": "Document 1",
+    "src": "/assets/note-icons/documentos_y_datos/012_documento_1.png"
+  },
+  {
+    "id": "documentos_y_datos-013_tabla_2",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Tabla 2",
+    "nameEn": "Table 2",
+    "src": "/assets/note-icons/documentos_y_datos/013_tabla_2.png"
+  },
+  {
+    "id": "documentos_y_datos-014_lista_documento",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Lista documento",
+    "nameEn": "List document",
+    "src": "/assets/note-icons/documentos_y_datos/014_lista_documento.png"
+  },
+  {
+    "id": "documentos_y_datos-015_tijeras_2",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Tijeras 2",
+    "nameEn": "Scissors 2",
+    "src": "/assets/note-icons/documentos_y_datos/015_tijeras_2.png"
+  },
+  {
+    "id": "documentos_y_datos-016_portapapeles_2",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Portapapeles 2",
+    "nameEn": "Clipboard 2",
+    "src": "/assets/note-icons/documentos_y_datos/016_portapapeles_2.png"
+  },
+  {
+    "id": "documentos_y_datos-017_tabla_3",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Tabla 3",
+    "nameEn": "Table 3",
+    "src": "/assets/note-icons/documentos_y_datos/017_tabla_3.png"
+  },
+  {
+    "id": "documentos_y_datos-018_copiar",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Copiar",
+    "nameEn": "Copy",
+    "src": "/assets/note-icons/documentos_y_datos/018_copiar.png"
+  },
+  {
+    "id": "documentos_y_datos-019_documento_2",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Documento 2",
+    "nameEn": "Document 2",
+    "src": "/assets/note-icons/documentos_y_datos/019_documento_2.png"
+  },
+  {
+    "id": "documentos_y_datos-020_portapapeles_3",
+    "themeId": "documentos_y_datos",
+    "themeEs": "Documentos y datos",
+    "themeEn": "Documents & data",
+    "nameEs": "Portapapeles 3",
+    "nameEn": "Clipboard 3",
+    "src": "/assets/note-icons/documentos_y_datos/020_portapapeles_3.png"
+  },
+  {
+    "id": "herramientas_y_controles-001_recortar",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Recortar",
+    "nameEn": "Crop",
+    "src": "/assets/note-icons/herramientas_y_controles/001_recortar.png"
+  },
+  {
+    "id": "herramientas_y_controles-002_goma",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Goma",
+    "nameEn": "Eraser",
+    "src": "/assets/note-icons/herramientas_y_controles/002_goma.png"
+  },
+  {
+    "id": "herramientas_y_controles-003_pincel",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Pincel",
+    "nameEn": "Brush",
+    "src": "/assets/note-icons/herramientas_y_controles/003_pincel.png"
+  },
+  {
+    "id": "herramientas_y_controles-004_regla",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Regla",
+    "nameEn": "Ruler",
+    "src": "/assets/note-icons/herramientas_y_controles/004_regla.png"
+  },
+  {
+    "id": "herramientas_y_controles-005_varita",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Varita",
+    "nameEn": "Wand",
+    "src": "/assets/note-icons/herramientas_y_controles/005_varita.png"
+  },
+  {
+    "id": "herramientas_y_controles-006_sonrisa",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Sonrisa",
+    "nameEn": "Smile",
+    "src": "/assets/note-icons/herramientas_y_controles/006_sonrisa.png"
+  },
+  {
+    "id": "herramientas_y_controles-007_tarta",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Tarta",
+    "nameEn": "Cake",
+    "src": "/assets/note-icons/herramientas_y_controles/007_tarta.png"
+  },
+  {
+    "id": "herramientas_y_controles-008_cafe",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Cafe",
+    "nameEn": "Coffee",
+    "src": "/assets/note-icons/herramientas_y_controles/008_cafe.png"
+  },
+  {
+    "id": "herramientas_y_controles-009_menu",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Menu",
+    "nameEn": "Menu",
+    "src": "/assets/note-icons/herramientas_y_controles/009_menu.png"
+  },
+  {
+    "id": "herramientas_y_controles-010_mas_horizontal_1",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Mas horizontal 1",
+    "nameEn": "Plus horizontal 1",
+    "src": "/assets/note-icons/herramientas_y_controles/010_mas_horizontal_1.png"
+  },
+  {
+    "id": "herramientas_y_controles-011_mas_vertical",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Mas vertical",
+    "nameEn": "Plus vertical",
+    "src": "/assets/note-icons/herramientas_y_controles/011_mas_vertical.png"
+  },
+  {
+    "id": "herramientas_y_controles-012_expandir_1",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Expandir 1",
+    "nameEn": "Expand 1",
+    "src": "/assets/note-icons/herramientas_y_controles/012_expandir_1.png"
+  },
+  {
+    "id": "herramientas_y_controles-013_codigo_qr_1",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Codigo qr 1",
+    "nameEn": "Code qr 1",
+    "src": "/assets/note-icons/herramientas_y_controles/013_codigo_qr_1.png"
+  },
+  {
+    "id": "herramientas_y_controles-014_mas_horizontal_2",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Mas horizontal 2",
+    "nameEn": "Plus horizontal 2",
+    "src": "/assets/note-icons/herramientas_y_controles/014_mas_horizontal_2.png"
+  },
+  {
+    "id": "herramientas_y_controles-015_expandir_2",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Expandir 2",
+    "nameEn": "Expand 2",
+    "src": "/assets/note-icons/herramientas_y_controles/015_expandir_2.png"
+  },
+  {
+    "id": "herramientas_y_controles-016_contraer",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Contraer",
+    "nameEn": "Collapse",
+    "src": "/assets/note-icons/herramientas_y_controles/016_contraer.png"
+  },
+  {
+    "id": "herramientas_y_controles-017_controles_opciones",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Controles opciones",
+    "nameEn": "Controls options",
+    "src": "/assets/note-icons/herramientas_y_controles/017_controles_opciones.png"
+  },
+  {
+    "id": "herramientas_y_controles-018_codigo_qr_2",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Codigo qr 2",
+    "nameEn": "Code qr 2",
+    "src": "/assets/note-icons/herramientas_y_controles/018_codigo_qr_2.png"
+  },
+  {
+    "id": "herramientas_y_controles-019_codigo_barras_1",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Codigo barras 1",
+    "nameEn": "Code bars 1",
+    "src": "/assets/note-icons/herramientas_y_controles/019_codigo_barras_1.png"
+  },
+  {
+    "id": "herramientas_y_controles-020_codigo_barras_2",
+    "themeId": "herramientas_y_controles",
+    "themeEs": "Herramientas y controles",
+    "themeEn": "Tools & controls",
+    "nameEs": "Codigo barras 2",
+    "nameEn": "Code bars 2",
+    "src": "/assets/note-icons/herramientas_y_controles/020_codigo_barras_2.png"
+  },
+  {
+    "id": "educacion_naturaleza-001_birrete_graduacion",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Birrete graduacion",
+    "nameEn": "Graduation cap graduation",
+    "src": "/assets/note-icons/educacion_naturaleza/001_birrete_graduacion.png"
+  },
+  {
+    "id": "educacion_naturaleza-002_diploma",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Diploma",
+    "nameEn": "Diploma",
+    "src": "/assets/note-icons/educacion_naturaleza/002_diploma.png"
+  },
+  {
+    "id": "educacion_naturaleza-003_abaco",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Abaco",
+    "nameEn": "Abacus",
+    "src": "/assets/note-icons/educacion_naturaleza/003_abaco.png"
+  },
+  {
+    "id": "educacion_naturaleza-004_atomo",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Atomo",
+    "nameEn": "Atom",
+    "src": "/assets/note-icons/educacion_naturaleza/004_atomo.png"
+  },
+  {
+    "id": "educacion_naturaleza-005_matraz_azul",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Matraz azul",
+    "nameEn": "Flask blue",
+    "src": "/assets/note-icons/educacion_naturaleza/005_matraz_azul.png"
+  },
+  {
+    "id": "educacion_naturaleza-006_matraz_rosa",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Matraz rosa",
+    "nameEn": "Flask pink",
+    "src": "/assets/note-icons/educacion_naturaleza/006_matraz_rosa.png"
+  },
+  {
+    "id": "educacion_naturaleza-007_iman",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Iman",
+    "nameEn": "Magnet",
+    "src": "/assets/note-icons/educacion_naturaleza/007_iman.png"
+  },
+  {
+    "id": "educacion_naturaleza-008_telescopio",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Telescopio",
+    "nameEn": "Telescope",
+    "src": "/assets/note-icons/educacion_naturaleza/008_telescopio.png"
+  },
+  {
+    "id": "educacion_naturaleza-009_clip_papel",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Clip papel",
+    "nameEn": "Paperclip paper",
+    "src": "/assets/note-icons/educacion_naturaleza/009_clip_papel.png"
+  },
+  {
+    "id": "educacion_naturaleza-010_grapadora",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Grapadora",
+    "nameEn": "Stapler",
+    "src": "/assets/note-icons/educacion_naturaleza/010_grapadora.png"
+  },
+  {
+    "id": "educacion_naturaleza-011_arbol",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Arbol",
+    "nameEn": "Tree",
+    "src": "/assets/note-icons/educacion_naturaleza/011_arbol.png"
+  },
+  {
+    "id": "educacion_naturaleza-012_pizarra",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Pizarra",
+    "nameEn": "Board",
+    "src": "/assets/note-icons/educacion_naturaleza/012_pizarra.png"
+  },
+  {
+    "id": "educacion_naturaleza-013_seta",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Seta",
+    "nameEn": "Mushroom",
+    "src": "/assets/note-icons/educacion_naturaleza/013_seta.png"
+  },
+  {
+    "id": "educacion_naturaleza-014_copo_nieve",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Copo nieve",
+    "nameEn": "Snowflake snow",
+    "src": "/assets/note-icons/educacion_naturaleza/014_copo_nieve.png"
+  },
+  {
+    "id": "educacion_naturaleza-015_flor_rosa_1",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Flor rosa 1",
+    "nameEn": "Flower pink 1",
+    "src": "/assets/note-icons/educacion_naturaleza/015_flor_rosa_1.png"
+  },
+  {
+    "id": "educacion_naturaleza-016_cactus",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Cactus",
+    "nameEn": "Cactus",
+    "src": "/assets/note-icons/educacion_naturaleza/016_cactus.png"
+  },
+  {
+    "id": "educacion_naturaleza-017_montanas_1",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Montanas 1",
+    "nameEn": "Mountains 1",
+    "src": "/assets/note-icons/educacion_naturaleza/017_montanas_1.png"
+  },
+  {
+    "id": "educacion_naturaleza-018_gotas_agua",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Gotas agua",
+    "nameEn": "Drops water",
+    "src": "/assets/note-icons/educacion_naturaleza/018_gotas_agua.png"
+  },
+  {
+    "id": "educacion_naturaleza-019_arcoiris",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Arcoiris",
+    "nameEn": "Rainbow",
+    "src": "/assets/note-icons/educacion_naturaleza/019_arcoiris.png"
+  },
+  {
+    "id": "educacion_naturaleza-020_cometa",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Cometa",
+    "nameEn": "Kite",
+    "src": "/assets/note-icons/educacion_naturaleza/020_cometa.png"
+  },
+  {
+    "id": "educacion_naturaleza-021_montanas_2",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Montanas 2",
+    "nameEn": "Mountains 2",
+    "src": "/assets/note-icons/educacion_naturaleza/021_montanas_2.png"
+  },
+  {
+    "id": "educacion_naturaleza-022_tienda_campana",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Tienda campana",
+    "nameEn": "Tent bell",
+    "src": "/assets/note-icons/educacion_naturaleza/022_tienda_campana.png"
+  },
+  {
+    "id": "educacion_naturaleza-023_abeja",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Abeja",
+    "nameEn": "Bee",
+    "src": "/assets/note-icons/educacion_naturaleza/023_abeja.png"
+  },
+  {
+    "id": "educacion_naturaleza-024_concha_1",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Concha 1",
+    "nameEn": "Shell 1",
+    "src": "/assets/note-icons/educacion_naturaleza/024_concha_1.png"
+  },
+  {
+    "id": "educacion_naturaleza-025_billete",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Billete",
+    "nameEn": "Banknote",
+    "src": "/assets/note-icons/educacion_naturaleza/025_billete.png"
+  },
+  {
+    "id": "educacion_naturaleza-026_bellota",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Bellota",
+    "nameEn": "Acorn",
+    "src": "/assets/note-icons/educacion_naturaleza/026_bellota.png"
+  },
+  {
+    "id": "educacion_naturaleza-027_flor_rosa_2",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Flor rosa 2",
+    "nameEn": "Flower pink 2",
+    "src": "/assets/note-icons/educacion_naturaleza/027_flor_rosa_2.png"
+  },
+  {
+    "id": "educacion_naturaleza-028_concha_2",
+    "themeId": "educacion_naturaleza",
+    "themeEs": "Educación y naturaleza",
+    "themeEn": "Education & nature",
+    "nameEs": "Concha 2",
+    "nameEn": "Shell 2",
+    "src": "/assets/note-icons/educacion_naturaleza/028_concha_2.png"
+  },
+  {
+    "id": "tecnologia_ocio-001_telefono_movil",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Telefono movil",
+    "nameEn": "Phone mobile",
+    "src": "/assets/note-icons/tecnologia_ocio/001_telefono_movil.png"
+  },
+  {
+    "id": "tecnologia_ocio-002_portatil",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Portatil",
+    "nameEn": "Laptop",
+    "src": "/assets/note-icons/tecnologia_ocio/002_portatil.png"
+  },
+  {
+    "id": "tecnologia_ocio-003_monitor",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Monitor",
+    "nameEn": "Monitor",
+    "src": "/assets/note-icons/tecnologia_ocio/003_monitor.png"
+  },
+  {
+    "id": "tecnologia_ocio-004_reloj_inteligente",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Reloj inteligente",
+    "nameEn": "Clock smart",
+    "src": "/assets/note-icons/tecnologia_ocio/004_reloj_inteligente.png"
+  },
+  {
+    "id": "tecnologia_ocio-005_raton_inalambrico",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Raton inalambrico",
+    "nameEn": "Mouse wireless",
+    "src": "/assets/note-icons/tecnologia_ocio/005_raton_inalambrico.png"
+  },
+  {
+    "id": "tecnologia_ocio-006_tarjeta_memoria",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Tarjeta memoria",
+    "nameEn": "Card memory",
+    "src": "/assets/note-icons/tecnologia_ocio/006_tarjeta_memoria.png"
+  },
+  {
+    "id": "tecnologia_ocio-007_tarjeta_sim",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Tarjeta sim",
+    "nameEn": "Card SIM",
+    "src": "/assets/note-icons/tecnologia_ocio/007_tarjeta_sim.png"
+  },
+  {
+    "id": "tecnologia_ocio-008_microchip",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Microchip",
+    "nameEn": "Microchip",
+    "src": "/assets/note-icons/tecnologia_ocio/008_microchip.png"
+  },
+  {
+    "id": "tecnologia_ocio-009_gafas_realidad_virtual",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Gafas realidad virtual",
+    "nameEn": "Glasses reality virtual",
+    "src": "/assets/note-icons/tecnologia_ocio/009_gafas_realidad_virtual.png"
+  },
+  {
+    "id": "tecnologia_ocio-010_joystick",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Joystick",
+    "nameEn": "Joystick",
+    "src": "/assets/note-icons/tecnologia_ocio/010_joystick.png"
+  },
+  {
+    "id": "tecnologia_ocio-011_globo_corazon",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Globo corazon",
+    "nameEn": "Balloon heart",
+    "src": "/assets/note-icons/tecnologia_ocio/011_globo_corazon.png"
+  },
+  {
+    "id": "tecnologia_ocio-012_trebol",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Trebol",
+    "nameEn": "Clover",
+    "src": "/assets/note-icons/tecnologia_ocio/012_trebol.png"
+  },
+  {
+    "id": "tecnologia_ocio-013_peon_ajedrez",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Peon ajedrez",
+    "nameEn": "Pawn chess",
+    "src": "/assets/note-icons/tecnologia_ocio/013_peon_ajedrez.png"
+  },
+  {
+    "id": "tecnologia_ocio-014_diana",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Diana",
+    "nameEn": "Target",
+    "src": "/assets/note-icons/tecnologia_ocio/014_diana.png"
+  },
+  {
+    "id": "tecnologia_ocio-015_carrete_hilo_1",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Carrete hilo 1",
+    "nameEn": "Spool thread 1",
+    "src": "/assets/note-icons/tecnologia_ocio/015_carrete_hilo_1.png"
+  },
+  {
+    "id": "tecnologia_ocio-016_reloj_arena",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Reloj arena",
+    "nameEn": "Clock sand",
+    "src": "/assets/note-icons/tecnologia_ocio/016_reloj_arena.png"
+  },
+  {
+    "id": "tecnologia_ocio-017_violin_1",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Violin 1",
+    "nameEn": "Violin 1",
+    "src": "/assets/note-icons/tecnologia_ocio/017_violin_1.png"
+  },
+  {
+    "id": "tecnologia_ocio-018_rodillo_pintura",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Rodillo pintura",
+    "nameEn": "Roller paint",
+    "src": "/assets/note-icons/tecnologia_ocio/018_rodillo_pintura.png"
+  },
+  {
+    "id": "tecnologia_ocio-019_sombrero_copa",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Sombrero copa",
+    "nameEn": "Hat top hat",
+    "src": "/assets/note-icons/tecnologia_ocio/019_sombrero_copa.png"
+  },
+  {
+    "id": "tecnologia_ocio-020_bola_cristal",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Bola cristal",
+    "nameEn": "Ball crystal",
+    "src": "/assets/note-icons/tecnologia_ocio/020_bola_cristal.png"
+  },
+  {
+    "id": "tecnologia_ocio-021_violin_2",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Violin 2",
+    "nameEn": "Violin 2",
+    "src": "/assets/note-icons/tecnologia_ocio/021_violin_2.png"
+  },
+  {
+    "id": "tecnologia_ocio-022_carrete_hilo_2",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Carrete hilo 2",
+    "nameEn": "Spool thread 2",
+    "src": "/assets/note-icons/tecnologia_ocio/022_carrete_hilo_2.png"
+  },
+  {
+    "id": "tecnologia_ocio-023_grulla_origami",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Grulla origami",
+    "nameEn": "Crane origami",
+    "src": "/assets/note-icons/tecnologia_ocio/023_grulla_origami.png"
+  },
+  {
+    "id": "tecnologia_ocio-024_palomitas",
+    "themeId": "tecnologia_ocio",
+    "themeEs": "Tecnología y ocio",
+    "themeEn": "Technology & leisure",
+    "nameEs": "Palomitas",
+    "nameEn": "Popcorn",
+    "src": "/assets/note-icons/tecnologia_ocio/024_palomitas.png"
+  },
+  {
+    "id": "archivos_desarrollo-001_caja_archivo",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Caja archivo",
+    "nameEn": "Box file",
+    "src": "/assets/note-icons/archivos_desarrollo/001_caja_archivo.png"
+  },
+  {
+    "id": "archivos_desarrollo-002_bandeja_entrada_correo",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Bandeja entrada correo",
+    "nameEn": "Tray inbox mail",
+    "src": "/assets/note-icons/archivos_desarrollo/002_bandeja_entrada_correo.png"
+  },
+  {
+    "id": "archivos_desarrollo-003_bandeja_salida_documento",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Bandeja salida documento",
+    "nameEn": "Tray outbox document",
+    "src": "/assets/note-icons/archivos_desarrollo/003_bandeja_salida_documento.png"
+  },
+  {
+    "id": "archivos_desarrollo-004_impresora",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Impresora",
+    "nameEn": "Printer",
+    "src": "/assets/note-icons/archivos_desarrollo/004_impresora.png"
+  },
+  {
+    "id": "archivos_desarrollo-005_terminal",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Terminal",
+    "nameEn": "Terminal",
+    "src": "/assets/note-icons/archivos_desarrollo/005_terminal.png"
+  },
+  {
+    "id": "archivos_desarrollo-006_ventana_codigo",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Ventana codigo",
+    "nameEn": "Window code",
+    "src": "/assets/note-icons/archivos_desarrollo/006_ventana_codigo.png"
+  },
+  {
+    "id": "archivos_desarrollo-007_servidores",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Servidores",
+    "nameEn": "Servers",
+    "src": "/assets/note-icons/archivos_desarrollo/007_servidores.png"
+  },
+  {
+    "id": "archivos_desarrollo-008_base_datos_1",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Base datos 1",
+    "nameEn": "Database data 1",
+    "src": "/assets/note-icons/archivos_desarrollo/008_base_datos_1.png"
+  },
+  {
+    "id": "archivos_desarrollo-009_base_datos_2",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Base datos 2",
+    "nameEn": "Database data 2",
+    "src": "/assets/note-icons/archivos_desarrollo/009_base_datos_2.png"
+  },
+  {
+    "id": "archivos_desarrollo-010_enchufe_1",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Enchufe 1",
+    "nameEn": "Plug 1",
+    "src": "/assets/note-icons/archivos_desarrollo/010_enchufe_1.png"
+  },
+  {
+    "id": "archivos_desarrollo-011_enchufe_2",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Enchufe 2",
+    "nameEn": "Plug 2",
+    "src": "/assets/note-icons/archivos_desarrollo/011_enchufe_2.png"
+  },
+  {
+    "id": "archivos_desarrollo-012_disco_duro",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Disco duro",
+    "nameEn": "Disk hard",
+    "src": "/assets/note-icons/archivos_desarrollo/012_disco_duro.png"
+  },
+  {
+    "id": "archivos_desarrollo-013_auriculares",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Auriculares",
+    "nameEn": "Headphones",
+    "src": "/assets/note-icons/archivos_desarrollo/013_auriculares.png"
+  },
+  {
+    "id": "archivos_desarrollo-014_memoria_usb_1",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Memoria usb 1",
+    "nameEn": "Memory USB 1",
+    "src": "/assets/note-icons/archivos_desarrollo/014_memoria_usb_1.png"
+  },
+  {
+    "id": "archivos_desarrollo-015_ticket",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Ticket",
+    "nameEn": "Ticket",
+    "src": "/assets/note-icons/archivos_desarrollo/015_ticket.png"
+  },
+  {
+    "id": "archivos_desarrollo-016_robot_1",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Robot 1",
+    "nameEn": "Robot 1",
+    "src": "/assets/note-icons/archivos_desarrollo/016_robot_1.png"
+  },
+  {
+    "id": "archivos_desarrollo-017_vale",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Vale",
+    "nameEn": "Voucher",
+    "src": "/assets/note-icons/archivos_desarrollo/017_vale.png"
+  },
+  {
+    "id": "archivos_desarrollo-018_memoria_usb_2",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Memoria usb 2",
+    "nameEn": "Memory USB 2",
+    "src": "/assets/note-icons/archivos_desarrollo/018_memoria_usb_2.png"
+  },
+  {
+    "id": "archivos_desarrollo-019_pieza_puzzle",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Pieza puzzle",
+    "nameEn": "Piece puzzle",
+    "src": "/assets/note-icons/archivos_desarrollo/019_pieza_puzzle.png"
+  },
+  {
+    "id": "archivos_desarrollo-020_robot_2",
+    "themeId": "archivos_desarrollo",
+    "themeEs": "Archivos y desarrollo",
+    "themeEn": "Files & development",
+    "nameEs": "Robot 2",
+    "nameEn": "Robot 2",
+    "src": "/assets/note-icons/archivos_desarrollo/020_robot_2.png"
+  },
+  {
+    "id": "finanzas_compras-001_tarjeta_credito",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Tarjeta credito",
+    "nameEn": "Card credit",
+    "src": "/assets/note-icons/finanzas_compras/001_tarjeta_credito.png"
+  },
+  {
+    "id": "finanzas_compras-002_cartera",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Cartera",
+    "nameEn": "Cartera",
+    "src": "/assets/note-icons/finanzas_compras/002_cartera.png"
+  },
+  {
+    "id": "finanzas_compras-003_monedas",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Monedas",
+    "nameEn": "Monedas",
+    "src": "/assets/note-icons/finanzas_compras/003_monedas.png"
+  },
+  {
+    "id": "finanzas_compras-004_hucha_cerdito",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Hucha cerdito",
+    "nameEn": "Hucha cerdito",
+    "src": "/assets/note-icons/finanzas_compras/004_hucha_cerdito.png"
+  },
+  {
+    "id": "finanzas_compras-005_recibo",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Recibo",
+    "nameEn": "Recibo",
+    "src": "/assets/note-icons/finanzas_compras/005_recibo.png"
+  },
+  {
+    "id": "finanzas_compras-006_cupon",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Cupon",
+    "nameEn": "Cupon",
+    "src": "/assets/note-icons/finanzas_compras/006_cupon.png"
+  },
+  {
+    "id": "finanzas_compras-007_cesta_compra",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Cesta compra",
+    "nameEn": "Cesta compra",
+    "src": "/assets/note-icons/finanzas_compras/007_cesta_compra.png"
+  },
+  {
+    "id": "finanzas_compras-008_caja_registradora",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Caja registradora",
+    "nameEn": "Box registradora",
+    "src": "/assets/note-icons/finanzas_compras/008_caja_registradora.png"
+  },
+  {
+    "id": "finanzas_compras-009_mano_moneda",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Mano moneda",
+    "nameEn": "Mano coin",
+    "src": "/assets/note-icons/finanzas_compras/009_mano_moneda.png"
+  },
+  {
+    "id": "finanzas_compras-010_caja_fuerte",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Caja fuerte",
+    "nameEn": "Box fuerte",
+    "src": "/assets/note-icons/finanzas_compras/010_caja_fuerte.png"
+  },
+  {
+    "id": "finanzas_compras-011_porcentaje_1",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Porcentaje 1",
+    "nameEn": "Porcentaje 1",
+    "src": "/assets/note-icons/finanzas_compras/011_porcentaje_1.png"
+  },
+  {
+    "id": "finanzas_compras-012_regalo",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Regalo",
+    "nameEn": "Gift",
+    "src": "/assets/note-icons/finanzas_compras/012_regalo.png"
+  },
+  {
+    "id": "finanzas_compras-013_dinero_efectivo",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Dinero efectivo",
+    "nameEn": "Money efectivo",
+    "src": "/assets/note-icons/finanzas_compras/013_dinero_efectivo.png"
+  },
+  {
+    "id": "finanzas_compras-014_descuento_porcentaje",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Descuento porcentaje",
+    "nameEn": "Descuento porcentaje",
+    "src": "/assets/note-icons/finanzas_compras/014_descuento_porcentaje.png"
+  },
+  {
+    "id": "finanzas_compras-015_oferta",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Oferta",
+    "nameEn": "Oferta",
+    "src": "/assets/note-icons/finanzas_compras/015_oferta.png"
+  },
+  {
+    "id": "finanzas_compras-016_tarjeta_regalo",
+    "themeId": "finanzas_compras",
+    "themeEs": "Finanzas y compras",
+    "themeEn": "Finance & shopping",
+    "nameEs": "Tarjeta regalo",
+    "nameEn": "Card gift",
+    "src": "/assets/note-icons/finanzas_compras/016_tarjeta_regalo.png"
+  },
+  {
+    "id": "comida-001_manzana",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Manzana",
+    "nameEn": "Apple",
+    "src": "/assets/note-icons/comida/001_manzana.png"
+  },
+  {
+    "id": "comida-002_fresa",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Fresa",
+    "nameEn": "Strawberry",
+    "src": "/assets/note-icons/comida/002_fresa.png"
+  },
+  {
+    "id": "comida-003_zanahoria",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Zanahoria",
+    "nameEn": "Zanahoria",
+    "src": "/assets/note-icons/comida/003_zanahoria.png"
+  },
+  {
+    "id": "comida-004_pan",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Pan",
+    "nameEn": "Bread",
+    "src": "/assets/note-icons/comida/004_pan.png"
+  },
+  {
+    "id": "comida-005_helado",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Helado",
+    "nameEn": "Ice cream",
+    "src": "/assets/note-icons/comida/005_helado.png"
+  },
+  {
+    "id": "comida-006_donut",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Donut",
+    "nameEn": "Donut",
+    "src": "/assets/note-icons/comida/006_donut.png"
+  },
+  {
+    "id": "comida-007_te",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Te",
+    "nameEn": "Te",
+    "src": "/assets/note-icons/comida/007_te.png"
+  },
+  {
+    "id": "comida-008_pizza",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Pizza",
+    "nameEn": "Pizza",
+    "src": "/assets/note-icons/comida/008_pizza.png"
+  },
+  {
+    "id": "comida-009_caramelo_envuelto_1",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Caramelo envuelto 1",
+    "nameEn": "Caramelo envuelto 1",
+    "src": "/assets/note-icons/comida/009_caramelo_envuelto_1.png"
+  },
+  {
+    "id": "comida-010_sushi",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Sushi",
+    "nameEn": "Sushi",
+    "src": "/assets/note-icons/comida/010_sushi.png"
+  },
+  {
+    "id": "comida-011_leche",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Leche",
+    "nameEn": "Leche",
+    "src": "/assets/note-icons/comida/011_leche.png"
+  },
+  {
+    "id": "comida-012_sandwich_1",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Sandwich 1",
+    "nameEn": "Sandwich 1",
+    "src": "/assets/note-icons/comida/012_sandwich_1.png"
+  },
+  {
+    "id": "comida-013_caramelos",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Caramelos",
+    "nameEn": "Caramelos",
+    "src": "/assets/note-icons/comida/013_caramelos.png"
+  },
+  {
+    "id": "comida-014_ramen",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Ramen",
+    "nameEn": "Ramen",
+    "src": "/assets/note-icons/comida/014_ramen.png"
+  },
+  {
+    "id": "comida-015_bento",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Bento",
+    "nameEn": "Bento",
+    "src": "/assets/note-icons/comida/015_bento.png"
+  },
+  {
+    "id": "comida-016_sandwich_2",
+    "themeId": "comida",
+    "themeEs": "Comida",
+    "themeEn": "Food",
+    "nameEs": "Sandwich 2",
+    "nameEn": "Sandwich 2",
+    "src": "/assets/note-icons/comida/016_sandwich_2.png"
+  },
+  {
+    "id": "transporte_viajes-001_coche",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Coche",
+    "nameEn": "Car",
+    "src": "/assets/note-icons/transporte_viajes/001_coche.png"
+  },
+  {
+    "id": "transporte_viajes-002_autobus",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Autobus",
+    "nameEn": "Bus",
+    "src": "/assets/note-icons/transporte_viajes/002_autobus.png"
+  },
+  {
+    "id": "transporte_viajes-003_bicicleta",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Bicicleta",
+    "nameEn": "Bicycle",
+    "src": "/assets/note-icons/transporte_viajes/003_bicicleta.png"
+  },
+  {
+    "id": "transporte_viajes-004_avion",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Avion",
+    "nameEn": "Airplane",
+    "src": "/assets/note-icons/transporte_viajes/004_avion.png"
+  },
+  {
+    "id": "transporte_viajes-005_velero",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Velero",
+    "nameEn": "Velero",
+    "src": "/assets/note-icons/transporte_viajes/005_velero.png"
+  },
+  {
+    "id": "transporte_viajes-006_globo_aerostatico",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Globo aerostatico",
+    "nameEn": "Balloon aerostatico",
+    "src": "/assets/note-icons/transporte_viajes/006_globo_aerostatico.png"
+  },
+  {
+    "id": "transporte_viajes-007_maleta",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Maleta",
+    "nameEn": "Suitcase",
+    "src": "/assets/note-icons/transporte_viajes/007_maleta.png"
+  },
+  {
+    "id": "transporte_viajes-008_mapa",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Mapa",
+    "nameEn": "Map",
+    "src": "/assets/note-icons/transporte_viajes/008_mapa.png"
+  },
+  {
+    "id": "transporte_viajes-009_gasolinera_1",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Gasolinera 1",
+    "nameEn": "Gasolinera 1",
+    "src": "/assets/note-icons/transporte_viajes/009_gasolinera_1.png"
+  },
+  {
+    "id": "transporte_viajes-010_volante",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Volante",
+    "nameEn": "Volante",
+    "src": "/assets/note-icons/transporte_viajes/010_volante.png"
+  },
+  {
+    "id": "transporte_viajes-011_semaforo",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Semaforo",
+    "nameEn": "Semaforo",
+    "src": "/assets/note-icons/transporte_viajes/011_semaforo.png"
+  },
+  {
+    "id": "transporte_viajes-012_ancla_1",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Ancla 1",
+    "nameEn": "Ancla 1",
+    "src": "/assets/note-icons/transporte_viajes/012_ancla_1.png"
+  },
+  {
+    "id": "transporte_viajes-013_gasolinera_2",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Gasolinera 2",
+    "nameEn": "Gasolinera 2",
+    "src": "/assets/note-icons/transporte_viajes/013_gasolinera_2.png"
+  },
+  {
+    "id": "transporte_viajes-014_pasaporte",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Pasaporte",
+    "nameEn": "Pasaporte",
+    "src": "/assets/note-icons/transporte_viajes/014_pasaporte.png"
+  },
+  {
+    "id": "transporte_viajes-015_senal_carretera",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Senal carretera",
+    "nameEn": "Senal carretera",
+    "src": "/assets/note-icons/transporte_viajes/015_senal_carretera.png"
+  },
+  {
+    "id": "transporte_viajes-016_ancla_2",
+    "themeId": "transporte_viajes",
+    "themeEs": "Transporte y viajes",
+    "themeEn": "Transport & travel",
+    "nameEs": "Ancla 2",
+    "nameEn": "Ancla 2",
+    "src": "/assets/note-icons/transporte_viajes/016_ancla_2.png"
+  },
+  {
+    "id": "salud_bienestar-001_estetoscopio",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Estetoscopio",
+    "nameEn": "Estetoscopio",
+    "src": "/assets/note-icons/salud_bienestar/001_estetoscopio.png"
+  },
+  {
+    "id": "salud_bienestar-002_jeringa",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Jeringa",
+    "nameEn": "Jeringa",
+    "src": "/assets/note-icons/salud_bienestar/002_jeringa.png"
+  },
+  {
+    "id": "salud_bienestar-003_medicamentos",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Medicamentos",
+    "nameEn": "Medicamentos",
+    "src": "/assets/note-icons/salud_bienestar/003_medicamentos.png"
+  },
+  {
+    "id": "salud_bienestar-004_diente",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Diente",
+    "nameEn": "Diente",
+    "src": "/assets/note-icons/salud_bienestar/004_diente.png"
+  },
+  {
+    "id": "salud_bienestar-005_hueso_1",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Hueso 1",
+    "nameEn": "Hueso 1",
+    "src": "/assets/note-icons/salud_bienestar/005_hueso_1.png"
+  },
+  {
+    "id": "salud_bienestar-006_mancuerna",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Mancuerna",
+    "nameEn": "Mancuerna",
+    "src": "/assets/note-icons/salud_bienestar/006_mancuerna.png"
+  },
+  {
+    "id": "salud_bienestar-007_botella_deportiva",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Botella deportiva",
+    "nameEn": "Botella deportiva",
+    "src": "/assets/note-icons/salud_bienestar/007_botella_deportiva.png"
+  },
+  {
+    "id": "salud_bienestar-008_pulso_cardiaco",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Pulso cardiaco",
+    "nameEn": "Pulso cardiaco",
+    "src": "/assets/note-icons/salud_bienestar/008_pulso_cardiaco.png"
+  },
+  {
+    "id": "salud_bienestar-009_huella_pie",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Huella pie",
+    "nameEn": "Huella pie",
+    "src": "/assets/note-icons/salud_bienestar/009_huella_pie.png"
+  },
+  {
+    "id": "salud_bienestar-010_antifaz_dormir",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Antifaz dormir",
+    "nameEn": "Antifaz dormir",
+    "src": "/assets/note-icons/salud_bienestar/010_antifaz_dormir.png"
+  },
+  {
+    "id": "salud_bienestar-011_inhalador_1",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Inhalador 1",
+    "nameEn": "Inhalador 1",
+    "src": "/assets/note-icons/salud_bienestar/011_inhalador_1.png"
+  },
+  {
+    "id": "salud_bienestar-012_inhalador_2",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Inhalador 2",
+    "nameEn": "Inhalador 2",
+    "src": "/assets/note-icons/salud_bienestar/012_inhalador_2.png"
+  },
+  {
+    "id": "salud_bienestar-013_hueso_2",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Hueso 2",
+    "nameEn": "Hueso 2",
+    "src": "/assets/note-icons/salud_bienestar/013_hueso_2.png"
+  },
+  {
+    "id": "salud_bienestar-014_flor_loto",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Flor loto",
+    "nameEn": "Flower lotus",
+    "src": "/assets/note-icons/salud_bienestar/014_flor_loto.png"
+  },
+  {
+    "id": "salud_bienestar-015_inhalador_3",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Inhalador 3",
+    "nameEn": "Inhalador 3",
+    "src": "/assets/note-icons/salud_bienestar/015_inhalador_3.png"
+  },
+  {
+    "id": "salud_bienestar-016_silla_ruedas",
+    "themeId": "salud_bienestar",
+    "themeEs": "Salud y bienestar",
+    "themeEn": "Health & wellness",
+    "nameEs": "Silla ruedas",
+    "nameEn": "Silla ruedas",
+    "src": "/assets/note-icons/salud_bienestar/016_silla_ruedas.png"
+  },
+  {
+    "id": "christmas-christmas_001_santa_hat",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 001 santa hat",
+    "nameEn": "Christmas 001 santa hat",
+    "src": "/assets/note-icons/christmas/christmas_001_santa_hat.png"
+  },
+  {
+    "id": "christmas-christmas_002_stocking",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 002 stocking",
+    "nameEn": "Christmas 002 stocking",
+    "src": "/assets/note-icons/christmas/christmas_002_stocking.png"
+  },
+  {
+    "id": "christmas-christmas_003_candy_cane_bow",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 003 candy cane bow",
+    "nameEn": "Christmas 003 candy cane bow",
+    "src": "/assets/note-icons/christmas/christmas_003_candy_cane_bow.png"
+  },
+  {
+    "id": "christmas-christmas_004_gingerbread_person",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 004 gingerbread person",
+    "nameEn": "Christmas 004 gingerbread person",
+    "src": "/assets/note-icons/christmas/christmas_004_gingerbread_person.png"
+  },
+  {
+    "id": "christmas-christmas_005_gold_ornament",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 005 gold ornament",
+    "nameEn": "Christmas 005 gold ornament",
+    "src": "/assets/note-icons/christmas/christmas_005_gold_ornament.png"
+  },
+  {
+    "id": "christmas-christmas_006_wreath_bell",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 006 wreath bell",
+    "nameEn": "Christmas 006 wreath bell",
+    "src": "/assets/note-icons/christmas/christmas_006_wreath_bell.png"
+  },
+  {
+    "id": "christmas-christmas_007_nutcracker",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 007 nutcracker",
+    "nameEn": "Christmas 007 nutcracker",
+    "src": "/assets/note-icons/christmas/christmas_007_nutcracker.png"
+  },
+  {
+    "id": "christmas-christmas_008_holly_sprig",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 008 holly sprig",
+    "nameEn": "Christmas 008 holly sprig",
+    "src": "/assets/note-icons/christmas/christmas_008_holly_sprig.png"
+  },
+  {
+    "id": "christmas-christmas_009_pink_gold_ornament",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 009 pink gold ornament",
+    "nameEn": "Christmas 009 pink gold ornament",
+    "src": "/assets/note-icons/christmas/christmas_009_pink_gold_ornament.png"
+  },
+  {
+    "id": "christmas-christmas_010_wreath_red_bow",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 010 wreath red bow",
+    "nameEn": "Christmas 010 wreath red bow",
+    "src": "/assets/note-icons/christmas/christmas_010_wreath_red_bow.png"
+  },
+  {
+    "id": "christmas-christmas_011_gift_sleigh",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 011 gift sleigh",
+    "nameEn": "Christmas 011 gift sleigh",
+    "src": "/assets/note-icons/christmas/christmas_011_gift_sleigh.png"
+  },
+  {
+    "id": "christmas-christmas_012_snow_globe",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 012 snow globe",
+    "nameEn": "Christmas 012 snow globe",
+    "src": "/assets/note-icons/christmas/christmas_012_snow_globe.png"
+  },
+  {
+    "id": "christmas-christmas_013_cocoa_mug",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 013 cocoa mug",
+    "nameEn": "Christmas 013 cocoa mug",
+    "src": "/assets/note-icons/christmas/christmas_013_cocoa_mug.png"
+  },
+  {
+    "id": "christmas-christmas_014_reindeer_face",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 014 reindeer face",
+    "nameEn": "Christmas 014 reindeer face",
+    "src": "/assets/note-icons/christmas/christmas_014_reindeer_face.png"
+  },
+  {
+    "id": "christmas-christmas_015_christmas_tree",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 015 christmas tree",
+    "nameEn": "Christmas 015 christmas tree",
+    "src": "/assets/note-icons/christmas/christmas_015_christmas_tree.png"
+  },
+  {
+    "id": "christmas-christmas_016_holly_candle",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 016 holly candle",
+    "nameEn": "Christmas 016 holly candle",
+    "src": "/assets/note-icons/christmas/christmas_016_holly_candle.png"
+  },
+  {
+    "id": "christmas-christmas_017_cocoa_mug_alt",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 017 cocoa mug alt",
+    "nameEn": "Christmas 017 cocoa mug alt",
+    "src": "/assets/note-icons/christmas/christmas_017_cocoa_mug_alt.png"
+  },
+  {
+    "id": "christmas-christmas_018_christmas_tree_small",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 018 christmas tree small",
+    "nameEn": "Christmas 018 christmas tree small",
+    "src": "/assets/note-icons/christmas/christmas_018_christmas_tree_small.png"
+  },
+  {
+    "id": "christmas-christmas_019_holly_candle_alt",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 019 holly candle alt",
+    "nameEn": "Christmas 019 holly candle alt",
+    "src": "/assets/note-icons/christmas/christmas_019_holly_candle_alt.png"
+  },
+  {
+    "id": "christmas-christmas_020_yule_log_cake",
+    "themeId": "christmas",
+    "themeEs": "Navidad",
+    "themeEn": "Christmas",
+    "nameEs": "Christmas 020 yule log cake",
+    "nameEn": "Christmas 020 yule log cake",
+    "src": "/assets/note-icons/christmas/christmas_020_yule_log_cake.png"
+  },
+  {
+    "id": "east_asian-east_asian_001_red_lantern",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 001 red lantern",
+    "nameEn": "East asian 001 red lantern",
+    "src": "/assets/note-icons/east_asian/east_asian_001_red_lantern.png"
+  },
+  {
+    "id": "east_asian-east_asian_002_red_envelope",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 002 red envelope",
+    "nameEn": "East asian 002 red envelope",
+    "src": "/assets/note-icons/east_asian/east_asian_002_red_envelope.png"
+  },
+  {
+    "id": "east_asian-east_asian_003_lion_dance_head_gem",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 003 lion dance head gem",
+    "nameEn": "East asian 003 lion dance head gem",
+    "src": "/assets/note-icons/east_asian/east_asian_003_lion_dance_head_gem.png"
+  },
+  {
+    "id": "east_asian-east_asian_004_lion_dance_head_smile",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 004 lion dance head smile",
+    "nameEn": "East asian 004 lion dance head smile",
+    "src": "/assets/note-icons/east_asian/east_asian_004_lion_dance_head_smile.png"
+  },
+  {
+    "id": "east_asian-east_asian_005_mandarin_oranges",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 005 mandarin oranges",
+    "nameEn": "East asian 005 mandarin oranges",
+    "src": "/assets/note-icons/east_asian/east_asian_005_mandarin_oranges.png"
+  },
+  {
+    "id": "east_asian-east_asian_006_plum_blossom_cluster",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 006 plum blossom cluster",
+    "nameEn": "East asian 006 plum blossom cluster",
+    "src": "/assets/note-icons/east_asian/east_asian_006_plum_blossom_cluster.png"
+  },
+  {
+    "id": "east_asian-east_asian_007_folding_fan",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 007 folding fan",
+    "nameEn": "East asian 007 folding fan",
+    "src": "/assets/note-icons/east_asian/east_asian_007_folding_fan.png"
+  },
+  {
+    "id": "east_asian-east_asian_008_mooncake",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 008 mooncake",
+    "nameEn": "East asian 008 mooncake",
+    "src": "/assets/note-icons/east_asian/east_asian_008_mooncake.png"
+  },
+  {
+    "id": "east_asian-east_asian_009_koinobori_flags",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 009 koinobori flags",
+    "nameEn": "East asian 009 koinobori flags",
+    "src": "/assets/note-icons/east_asian/east_asian_009_koinobori_flags.png"
+  },
+  {
+    "id": "east_asian-east_asian_010_sakura_flower_cluster",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 010 sakura flower cluster",
+    "nameEn": "East asian 010 sakura flower cluster",
+    "src": "/assets/note-icons/east_asian/east_asian_010_sakura_flower_cluster.png"
+  },
+  {
+    "id": "east_asian-east_asian_011_tangyuan_bowl",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 011 tangyuan bowl",
+    "nameEn": "East asian 011 tangyuan bowl",
+    "src": "/assets/note-icons/east_asian/east_asian_011_tangyuan_bowl.png"
+  },
+  {
+    "id": "east_asian-east_asian_012_omamori_charm",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 012 omamori charm",
+    "nameEn": "East asian 012 omamori charm",
+    "src": "/assets/note-icons/east_asian/east_asian_012_omamori_charm.png"
+  },
+  {
+    "id": "east_asian-east_asian_013_koinobori_flags_alt",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 013 koinobori flags alt",
+    "nameEn": "East asian 013 koinobori flags alt",
+    "src": "/assets/note-icons/east_asian/east_asian_013_koinobori_flags_alt.png"
+  },
+  {
+    "id": "east_asian-east_asian_014_taiko_drum",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 014 taiko drum",
+    "nameEn": "East asian 014 taiko drum",
+    "src": "/assets/note-icons/east_asian/east_asian_014_taiko_drum.png"
+  },
+  {
+    "id": "east_asian-east_asian_015_omamori_charm_alt",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 015 omamori charm alt",
+    "nameEn": "East asian 015 omamori charm alt",
+    "src": "/assets/note-icons/east_asian/east_asian_015_omamori_charm_alt.png"
+  },
+  {
+    "id": "east_asian-east_asian_016_torii_gate",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 016 torii gate",
+    "nameEn": "East asian 016 torii gate",
+    "src": "/assets/note-icons/east_asian/east_asian_016_torii_gate.png"
+  },
+  {
+    "id": "east_asian-east_asian_017_taiko_drum_alt",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 017 taiko drum alt",
+    "nameEn": "East asian 017 taiko drum alt",
+    "src": "/assets/note-icons/east_asian/east_asian_017_taiko_drum_alt.png"
+  },
+  {
+    "id": "east_asian-east_asian_018_sakura_flower_single",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 018 sakura flower single",
+    "nameEn": "East asian 018 sakura flower single",
+    "src": "/assets/note-icons/east_asian/east_asian_018_sakura_flower_single.png"
+  },
+  {
+    "id": "east_asian-east_asian_019_sakura_branch_small",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 019 sakura branch small",
+    "nameEn": "East asian 019 sakura branch small",
+    "src": "/assets/note-icons/east_asian/east_asian_019_sakura_branch_small.png"
+  },
+  {
+    "id": "east_asian-east_asian_020_sakura_branch_large",
+    "themeId": "east_asian",
+    "themeEs": "Asia oriental",
+    "themeEn": "East Asian",
+    "nameEs": "East asian 020 sakura branch large",
+    "nameEn": "East asian 020 sakura branch large",
+    "src": "/assets/note-icons/east_asian/east_asian_020_sakura_branch_large.png"
+  },
+  {
+    "id": "european-european_001_pretzel",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 001 pretzel",
+    "nameEn": "European 001 pretzel",
+    "src": "/assets/note-icons/european/european_001_pretzel.png"
+  },
+  {
+    "id": "european-european_002_beer_stein",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 002 beer stein",
+    "nameEn": "European 002 beer stein",
+    "src": "/assets/note-icons/european/european_002_beer_stein.png"
+  },
+  {
+    "id": "european-european_003_alpine_hat",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 003 alpine hat",
+    "nameEn": "European 003 alpine hat",
+    "src": "/assets/note-icons/european/european_003_alpine_hat.png"
+  },
+  {
+    "id": "european-european_004_carnival_mask",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 004 carnival mask",
+    "nameEn": "European 004 carnival mask",
+    "src": "/assets/note-icons/european/european_004_carnival_mask.png"
+  },
+  {
+    "id": "european-european_005_accordion",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 005 accordion",
+    "nameEn": "European 005 accordion",
+    "src": "/assets/note-icons/european/european_005_accordion.png"
+  },
+  {
+    "id": "european-european_006_celtic_harp",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 006 celtic harp",
+    "nameEn": "European 006 celtic harp",
+    "src": "/assets/note-icons/european/european_006_celtic_harp.png"
+  },
+  {
+    "id": "european-european_007_windmill",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 007 windmill",
+    "nameEn": "European 007 windmill",
+    "src": "/assets/note-icons/european/european_007_windmill.png"
+  },
+  {
+    "id": "european-european_008_matryoshka_doll",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 008 matryoshka doll",
+    "nameEn": "European 008 matryoshka doll",
+    "src": "/assets/note-icons/european/european_008_matryoshka_doll.png"
+  },
+  {
+    "id": "european-european_009_gondola",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 009 gondola",
+    "nameEn": "European 009 gondola",
+    "src": "/assets/note-icons/european/european_009_gondola.png"
+  },
+  {
+    "id": "european-european_010_castanets",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 010 castanets",
+    "nameEn": "European 010 castanets",
+    "src": "/assets/note-icons/european/european_010_castanets.png"
+  },
+  {
+    "id": "european-european_011_wooden_clog",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 011 wooden clog",
+    "nameEn": "European 011 wooden clog",
+    "src": "/assets/note-icons/european/european_011_wooden_clog.png"
+  },
+  {
+    "id": "european-european_012_croissant",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 012 croissant",
+    "nameEn": "European 012 croissant",
+    "src": "/assets/note-icons/european/european_012_croissant.png"
+  },
+  {
+    "id": "european-european_013_paella_pan",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 013 paella pan",
+    "nameEn": "European 013 paella bread",
+    "src": "/assets/note-icons/european/european_013_paella_pan.png"
+  },
+  {
+    "id": "european-european_014_wooden_clog_alt",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 014 wooden clog alt",
+    "nameEn": "European 014 wooden clog alt",
+    "src": "/assets/note-icons/european/european_014_wooden_clog_alt.png"
+  },
+  {
+    "id": "european-european_015_tulip_bouquet",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 015 tulip bouquet",
+    "nameEn": "European 015 tulip bouquet",
+    "src": "/assets/note-icons/european/european_015_tulip_bouquet.png"
+  },
+  {
+    "id": "european-european_016_decorated_folk_egg",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 016 decorated folk egg",
+    "nameEn": "European 016 decorated folk egg",
+    "src": "/assets/note-icons/european/european_016_decorated_folk_egg.png"
+  },
+  {
+    "id": "european-european_017_roast_platter",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 017 roast platter",
+    "nameEn": "European 017 roast platter",
+    "src": "/assets/note-icons/european/european_017_roast_platter.png"
+  },
+  {
+    "id": "european-european_018_croissant_alt",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 018 croissant alt",
+    "nameEn": "European 018 croissant alt",
+    "src": "/assets/note-icons/european/european_018_croissant_alt.png"
+  },
+  {
+    "id": "european-european_019_floral_pastry",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 019 floral pastry",
+    "nameEn": "European 019 floral pastry",
+    "src": "/assets/note-icons/european/european_019_floral_pastry.png"
+  },
+  {
+    "id": "european-european_020_decorated_folk_egg_alt",
+    "themeId": "european",
+    "themeEs": "Europa",
+    "themeEn": "European",
+    "nameEs": "European 020 decorated folk egg alt",
+    "nameEn": "European 020 decorated folk egg alt",
+    "src": "/assets/note-icons/european/european_020_decorated_folk_egg_alt.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_001_menorah",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 001 menorah",
+    "nameEn": "Global celebrations 001 menorah",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_001_menorah.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_002_dreidel",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 002 dreidel",
+    "nameEn": "Global celebrations 002 dreidel",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_002_dreidel.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_003_kinara_candles",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 003 kinara candles",
+    "nameEn": "Global celebrations 003 kinara candles",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_003_kinara_candles.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_004_unity_cup",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 004 unity cup",
+    "nameEn": "Global celebrations 004 unity cup",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_004_unity_cup.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_005_easter_eggs",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 005 easter eggs",
+    "nameEn": "Global celebrations 005 easter eggs",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_005_easter_eggs.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_006_easter_basket",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 006 easter basket",
+    "nameEn": "Global celebrations 006 easter basket",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_006_easter_basket.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_007_cornucopia",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 007 cornucopia",
+    "nameEn": "Global celebrations 007 cornucopia",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_007_cornucopia.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_008_wheat_bundle",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 008 wheat bundle",
+    "nameEn": "Global celebrations 008 wheat bundle",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_008_wheat_bundle.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_009_fireworks_burst",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 009 fireworks burst",
+    "nameEn": "Global celebrations 009 fireworks burst",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_009_fireworks_burst.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_010_horseshoe",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 010 horseshoe",
+    "nameEn": "Global celebrations 010 horseshoe",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_010_horseshoe.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_011_party_hat",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 011 party hat",
+    "nameEn": "Global celebrations 011 party hat",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_011_party_hat.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_012_confetti_popper",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 012 confetti popper",
+    "nameEn": "Global celebrations 012 confetti popper",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_012_confetti_popper.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_013_wedding_rings",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 013 wedding rings",
+    "nameEn": "Global celebrations 013 wedding rings",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_013_wedding_rings.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_014_beaded_wreath_bow",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 014 beaded wreath bow",
+    "nameEn": "Global celebrations 014 beaded wreath bow",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_014_beaded_wreath_bow.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_015_beaded_wreath_simple",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 015 beaded wreath simple",
+    "nameEn": "Global celebrations 015 beaded wreath simple",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_015_beaded_wreath_simple.png"
+  },
+  {
+    "id": "global_celebrations-global_celebrations_016_champagne_glasses",
+    "themeId": "global_celebrations",
+    "themeEs": "Celebraciones globales",
+    "themeEn": "Global celebrations",
+    "nameEs": "Global celebrations 016 champagne glasses",
+    "nameEn": "Global celebrations 016 champagne glasses",
+    "src": "/assets/note-icons/global_celebrations/global_celebrations_016_champagne_glasses.png"
+  },
+  {
+    "id": "halloween-halloween_001_jack_o_lantern",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 001 jack o lantern",
+    "nameEn": "Halloween 001 jack o lantern",
+    "src": "/assets/note-icons/halloween/halloween_001_jack_o_lantern.png"
+  },
+  {
+    "id": "halloween-halloween_002_friendly_ghost",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 002 friendly ghost",
+    "nameEn": "Halloween 002 friendly ghost",
+    "src": "/assets/note-icons/halloween/halloween_002_friendly_ghost.png"
+  },
+  {
+    "id": "halloween-halloween_003_broomstick",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 003 broomstick",
+    "nameEn": "Halloween 003 broomstick",
+    "src": "/assets/note-icons/halloween/halloween_003_broomstick.png"
+  },
+  {
+    "id": "halloween-halloween_004_sugar_skull",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 004 sugar skull",
+    "nameEn": "Halloween 004 sugar skull",
+    "src": "/assets/note-icons/halloween/halloween_004_sugar_skull.png"
+  },
+  {
+    "id": "halloween-halloween_005_marigold_flower",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 005 marigold flower",
+    "nameEn": "Halloween 005 marigold flower",
+    "src": "/assets/note-icons/halloween/halloween_005_marigold_flower.png"
+  },
+  {
+    "id": "halloween-halloween_006_papel_picado_skull",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 006 papel picado skull",
+    "nameEn": "Halloween 006 paper picado skull",
+    "src": "/assets/note-icons/halloween/halloween_006_papel_picado_skull.png"
+  },
+  {
+    "id": "halloween-halloween_007_black_cat",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 007 black cat",
+    "nameEn": "Halloween 007 black cat",
+    "src": "/assets/note-icons/halloween/halloween_007_black_cat.png"
+  },
+  {
+    "id": "halloween-halloween_008_cauldron",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 008 cauldron",
+    "nameEn": "Halloween 008 cauldron",
+    "src": "/assets/note-icons/halloween/halloween_008_cauldron.png"
+  },
+  {
+    "id": "halloween-halloween_009_spider_web",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 009 spider web",
+    "nameEn": "Halloween 009 spider web",
+    "src": "/assets/note-icons/halloween/halloween_009_spider_web.png"
+  },
+  {
+    "id": "halloween-halloween_010_tombstone_rip_small",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 010 tombstone rip small",
+    "nameEn": "Halloween 010 tombstone rip small",
+    "src": "/assets/note-icons/halloween/halloween_010_tombstone_rip_small.png"
+  },
+  {
+    "id": "halloween-halloween_011_tombstone_rip_large",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 011 tombstone rip large",
+    "nameEn": "Halloween 011 tombstone rip large",
+    "src": "/assets/note-icons/halloween/halloween_011_tombstone_rip_large.png"
+  },
+  {
+    "id": "halloween-halloween_012_spider_web_with_spider",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 012 spider web with spider",
+    "nameEn": "Halloween 012 spider web with spider",
+    "src": "/assets/note-icons/halloween/halloween_012_spider_web_with_spider.png"
+  },
+  {
+    "id": "halloween-halloween_013_bat",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 013 bat",
+    "nameEn": "Halloween 013 bat",
+    "src": "/assets/note-icons/halloween/halloween_013_bat.png"
+  },
+  {
+    "id": "halloween-halloween_014_altar_candle",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 014 altar candle",
+    "nameEn": "Halloween 014 altar candle",
+    "src": "/assets/note-icons/halloween/halloween_014_altar_candle.png"
+  },
+  {
+    "id": "halloween-halloween_015_candy_corn",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 015 candy corn",
+    "nameEn": "Halloween 015 candy corn",
+    "src": "/assets/note-icons/halloween/halloween_015_candy_corn.png"
+  },
+  {
+    "id": "halloween-halloween_016_potion_bottle",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 016 potion bottle",
+    "nameEn": "Halloween 016 potion bottle",
+    "src": "/assets/note-icons/halloween/halloween_016_potion_bottle.png"
+  },
+  {
+    "id": "halloween-halloween_017_tombstone_rip_alt",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 017 tombstone rip alt",
+    "nameEn": "Halloween 017 tombstone rip alt",
+    "src": "/assets/note-icons/halloween/halloween_017_tombstone_rip_alt.png"
+  },
+  {
+    "id": "halloween-halloween_018_candy_corn_alt",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 018 candy corn alt",
+    "nameEn": "Halloween 018 candy corn alt",
+    "src": "/assets/note-icons/halloween/halloween_018_candy_corn_alt.png"
+  },
+  {
+    "id": "halloween-halloween_019_potion_bottle_alt",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 019 potion bottle alt",
+    "nameEn": "Halloween 019 potion bottle alt",
+    "src": "/assets/note-icons/halloween/halloween_019_potion_bottle_alt.png"
+  },
+  {
+    "id": "halloween-halloween_020_altar_candle_alt",
+    "themeId": "halloween",
+    "themeEs": "Halloween",
+    "themeEn": "Halloween",
+    "nameEs": "Halloween 020 altar candle alt",
+    "nameEn": "Halloween 020 altar candle alt",
+    "src": "/assets/note-icons/halloween/halloween_020_altar_candle_alt.png"
+  },
+  {
+    "id": "indian-indian_001_diya_lamp",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 001 diya lamp",
+    "nameEn": "Indian 001 diya lamp",
+    "src": "/assets/note-icons/indian/indian_001_diya_lamp.png"
+  },
+  {
+    "id": "indian-indian_002_rangoli_flower",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 002 rangoli flower",
+    "nameEn": "Indian 002 rangoli flower",
+    "src": "/assets/note-icons/indian/indian_002_rangoli_flower.png"
+  },
+  {
+    "id": "indian-indian_003_marigold_garland_small",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 003 marigold garland small",
+    "nameEn": "Indian 003 marigold garland small",
+    "src": "/assets/note-icons/indian/indian_003_marigold_garland_small.png"
+  },
+  {
+    "id": "indian-indian_004_marigold_garland_large",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 004 marigold garland large",
+    "nameEn": "Indian 004 marigold garland large",
+    "src": "/assets/note-icons/indian/indian_004_marigold_garland_large.png"
+  },
+  {
+    "id": "indian-indian_005_stacked_bangles",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 005 stacked bangles",
+    "nameEn": "Indian 005 stacked bangles",
+    "src": "/assets/note-icons/indian/indian_005_stacked_bangles.png"
+  },
+  {
+    "id": "indian-indian_006_dhol_drum",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 006 dhol drum",
+    "nameEn": "Indian 006 dhol drum",
+    "src": "/assets/note-icons/indian/indian_006_dhol_drum.png"
+  },
+  {
+    "id": "indian-indian_007_mango_leaf_toran",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 007 mango leaf toran",
+    "nameEn": "Indian 007 mango leaf toran",
+    "src": "/assets/note-icons/indian/indian_007_mango_leaf_toran.png"
+  },
+  {
+    "id": "indian-indian_008_mehndi_cone",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 008 mehndi cone",
+    "nameEn": "Indian 008 mehndi cone",
+    "src": "/assets/note-icons/indian/indian_008_mehndi_cone.png"
+  },
+  {
+    "id": "indian-indian_009_turban",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 009 turban",
+    "nameEn": "Indian 009 turban",
+    "src": "/assets/note-icons/indian/indian_009_turban.png"
+  },
+  {
+    "id": "indian-indian_010_decorated_elephant",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 010 decorated elephant",
+    "nameEn": "Indian 010 decorated elephant",
+    "src": "/assets/note-icons/indian/indian_010_decorated_elephant.png"
+  },
+  {
+    "id": "indian-indian_011_temple_bell",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 011 temple bell",
+    "nameEn": "Indian 011 temple bell",
+    "src": "/assets/note-icons/indian/indian_011_temple_bell.png"
+  },
+  {
+    "id": "indian-indian_012_festive_food_bowl",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 012 festive food bowl",
+    "nameEn": "Indian 012 festive food bowl",
+    "src": "/assets/note-icons/indian/indian_012_festive_food_bowl.png"
+  },
+  {
+    "id": "indian-indian_013_tabla_pair",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 013 tabla pair",
+    "nameEn": "Indian 013 table pair",
+    "src": "/assets/note-icons/indian/indian_013_tabla_pair.png"
+  },
+  {
+    "id": "indian-indian_014_tabla_and_small_drum",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 014 tabla and small drum",
+    "nameEn": "Indian 014 table and small drum",
+    "src": "/assets/note-icons/indian/indian_014_tabla_and_small_drum.png"
+  },
+  {
+    "id": "indian-indian_015_puja_thali_platter",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 015 puja thali platter",
+    "nameEn": "Indian 015 puja thali platter",
+    "src": "/assets/note-icons/indian/indian_015_puja_thali_platter.png"
+  },
+  {
+    "id": "indian-indian_016_floating_diya",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 016 floating diya",
+    "nameEn": "Indian 016 floating diya",
+    "src": "/assets/note-icons/indian/indian_016_floating_diya.png"
+  },
+  {
+    "id": "indian-indian_017_peacock_feather",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 017 peacock feather",
+    "nameEn": "Indian 017 peacock feather",
+    "src": "/assets/note-icons/indian/indian_017_peacock_feather.png"
+  },
+  {
+    "id": "indian-indian_018_festival_kite",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 018 festival kite",
+    "nameEn": "Indian 018 festival kite",
+    "src": "/assets/note-icons/indian/indian_018_festival_kite.png"
+  },
+  {
+    "id": "indian-indian_019_puja_thali_lamp",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 019 puja thali lamp",
+    "nameEn": "Indian 019 puja thali lamp",
+    "src": "/assets/note-icons/indian/indian_019_puja_thali_lamp.png"
+  },
+  {
+    "id": "indian-indian_020_spice_bowl",
+    "themeId": "indian",
+    "themeEs": "India",
+    "themeEn": "Indian",
+    "nameEs": "Indian 020 spice bowl",
+    "nameEn": "Indian 020 spice bowl",
+    "src": "/assets/note-icons/indian/indian_020_spice_bowl.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_001_pinata_donkey",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 001 pinata donkey",
+    "nameEn": "Latin tropical 001 pinata donkey",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_001_pinata_donkey.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_002_sombrero",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 002 sombrero",
+    "nameEn": "Latin tropical 002 hat",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_002_sombrero.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_003_maracas",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 003 maracas",
+    "nameEn": "Latin tropical 003 maracas",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_003_maracas.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_004_papel_picado_banner",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 004 papel picado banner",
+    "nameEn": "Latin tropical 004 paper picado banner",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_004_papel_picado_banner.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_005_conga_drum",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 005 conga drum",
+    "nameEn": "Latin tropical 005 conga drum",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_005_conga_drum.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_006_carnival_headdress",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 006 carnival headdress",
+    "nameEn": "Latin tropical 006 carnival headdress",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_006_carnival_headdress.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_007_mate_gourd",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 007 mate gourd",
+    "nameEn": "Latin tropical 007 mate gourd",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_007_mate_gourd.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_008_poncho",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 008 poncho",
+    "nameEn": "Latin tropical 008 poncho",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_008_poncho.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_009_flower_lei",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 009 flower lei",
+    "nameEn": "Latin tropical 009 flower lei",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_009_flower_lei.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_010_tiki_torch",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 010 tiki torch",
+    "nameEn": "Latin tropical 010 tiki torch",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_010_tiki_torch.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_011_ukulele",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 011 ukulele",
+    "nameEn": "Latin tropical 011 ukulele",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_011_ukulele.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_012_samba_whistle",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 012 samba whistle",
+    "nameEn": "Latin tropical 012 samba whistle",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_012_samba_whistle.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_013_cocoa_pod",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 013 cocoa pod",
+    "nameEn": "Latin tropical 013 cocoa pod",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_013_cocoa_pod.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_014_taco",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 014 taco",
+    "nameEn": "Latin tropical 014 taco",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_014_taco.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_015_surfboard",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 015 surfboard",
+    "nameEn": "Latin tropical 015 surfboard",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_015_surfboard.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_016_palm_fan",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 016 palm fan",
+    "nameEn": "Latin tropical 016 palm fan",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_016_palm_fan.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_017_surfboard_small",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 017 surfboard small",
+    "nameEn": "Latin tropical 017 surfboard small",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_017_surfboard_small.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_018_plumeria_flower",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 018 plumeria flower",
+    "nameEn": "Latin tropical 018 plumeria flower",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_018_plumeria_flower.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_019_bamboo_whistle",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 019 bamboo whistle",
+    "nameEn": "Latin tropical 019 bamboo whistle",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_019_bamboo_whistle.png"
+  },
+  {
+    "id": "latin_tropical-latin_tropical_020_palm_fan_small",
+    "themeId": "latin_tropical",
+    "themeEs": "Latino y tropical",
+    "themeEn": "Latin & tropical",
+    "nameEs": "Latin tropical 020 palm fan small",
+    "nameEn": "Latin tropical 020 palm fan small",
+    "src": "/assets/note-icons/latin_tropical/latin_tropical_020_palm_fan_small.png"
+  },
+  {
+    "id": "mena-mena_001_fanous_lantern",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 001 fanous lantern",
+    "nameEn": "Mena 001 fanous lantern",
+    "src": "/assets/note-icons/mena/mena_001_fanous_lantern.png"
+  },
+  {
+    "id": "mena-mena_002_dates_plate",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 002 dates plate",
+    "nameEn": "Mena 002 dates plate",
+    "src": "/assets/note-icons/mena/mena_002_dates_plate.png"
+  },
+  {
+    "id": "mena-mena_003_prayer_beads",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 003 prayer beads",
+    "nameEn": "Mena 003 prayer beads",
+    "src": "/assets/note-icons/mena/mena_003_prayer_beads.png"
+  },
+  {
+    "id": "mena-mena_004_dallah_coffee_pot",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 004 dallah coffee pot",
+    "nameEn": "Mena 004 dallah coffee pot",
+    "src": "/assets/note-icons/mena/mena_004_dallah_coffee_pot.png"
+  },
+  {
+    "id": "mena-mena_005_mosque",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 005 mosque",
+    "nameEn": "Mena 005 mosque",
+    "src": "/assets/note-icons/mena/mena_005_mosque.png"
+  },
+  {
+    "id": "mena-mena_006_crescent_moon_star",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 006 crescent moon star",
+    "nameEn": "Mena 006 crescent moon star",
+    "src": "/assets/note-icons/mena/mena_006_crescent_moon_star.png"
+  },
+  {
+    "id": "mena-mena_007_geometric_mosaic_tile",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 007 geometric mosaic tile",
+    "nameEn": "Mena 007 geometric mosaic tile",
+    "src": "/assets/note-icons/mena/mena_007_geometric_mosaic_tile.png"
+  },
+  {
+    "id": "mena-mena_008_henna_hand",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 008 henna hand",
+    "nameEn": "Mena 008 henna hand",
+    "src": "/assets/note-icons/mena/mena_008_henna_hand.png"
+  },
+  {
+    "id": "mena-mena_009_tagine_pot",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 009 tagine pot",
+    "nameEn": "Mena 009 tagine pot",
+    "src": "/assets/note-icons/mena/mena_009_tagine_pot.png"
+  },
+  {
+    "id": "mena-mena_010_camel",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 010 camel",
+    "nameEn": "Mena 010 camel",
+    "src": "/assets/note-icons/mena/mena_010_camel.png"
+  },
+  {
+    "id": "mena-mena_011_palm_oasis",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 011 palm oasis",
+    "nameEn": "Mena 011 palm oasis",
+    "src": "/assets/note-icons/mena/mena_011_palm_oasis.png"
+  },
+  {
+    "id": "mena-mena_012_fez_hat",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 012 fez hat",
+    "nameEn": "Mena 012 fez hat",
+    "src": "/assets/note-icons/mena/mena_012_fez_hat.png"
+  },
+  {
+    "id": "mena-mena_013_perfume_bottle_atomizer",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 013 perfume bottle atomizer",
+    "nameEn": "Mena 013 perfume bottle atomizer",
+    "src": "/assets/note-icons/mena/mena_013_perfume_bottle_atomizer.png"
+  },
+  {
+    "id": "mena-mena_014_palm_oasis_alt",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 014 palm oasis alt",
+    "nameEn": "Mena 014 palm oasis alt",
+    "src": "/assets/note-icons/mena/mena_014_palm_oasis_alt.png"
+  },
+  {
+    "id": "mena-mena_015_perfume_bottle_round",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 015 perfume bottle round",
+    "nameEn": "Mena 015 perfume bottle round",
+    "src": "/assets/note-icons/mena/mena_015_perfume_bottle_round.png"
+  },
+  {
+    "id": "mena-mena_016_oud_instrument",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 016 oud instrument",
+    "nameEn": "Mena 016 oud instrument",
+    "src": "/assets/note-icons/mena/mena_016_oud_instrument.png"
+  },
+  {
+    "id": "mena-mena_017_perfume_bottle_small",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 017 perfume bottle small",
+    "nameEn": "Mena 017 perfume bottle small",
+    "src": "/assets/note-icons/mena/mena_017_perfume_bottle_small.png"
+  },
+  {
+    "id": "mena-mena_018_oud_instrument_small",
+    "themeId": "mena",
+    "themeEs": "Oriente Medio y Norte de África",
+    "themeEn": "Middle East & North Africa",
+    "nameEs": "Mena 018 oud instrument small",
+    "nameEn": "Mena 018 oud instrument small",
+    "src": "/assets/note-icons/mena/mena_018_oud_instrument_small.png"
+  }
+]

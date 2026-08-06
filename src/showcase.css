@@ -1,0 +1,126 @@
+html.showcase-html,body.showcase-body,body.showcase-body #root{background:transparent}
+body.showcase-body{margin:0;overflow:hidden;color:#332a31;font-family:Nunito,"Segoe UI",sans-serif}
+.showcase-window{position:relative;width:100vw;height:100vh;padding:26px 14px 16px;display:grid;place-items:center;overflow:hidden;isolation:isolate;user-select:none}
+.showcase-card{position:relative;width:calc(100% - 14px);aspect-ratio:9/16;max-height:calc(100vh - 42px);border-radius:var(--visual-radius);overflow:visible;isolation:isolate;filter:drop-shadow(0 22px 30px var(--visual-shadow))}
+.showcase-background,.showcase-overlay{position:absolute;inset:0;border-radius:inherit;pointer-events:none}
+.showcase-background{z-index:-3;background-color:var(--visual-bg-color);background-image:var(--visual-bg);background-position:var(--visual-bg-position);background-size:var(--visual-bg-size);background-repeat:no-repeat;box-shadow:inset 0 0 0 1px var(--visual-border)}
+.showcase-overlay{z-index:-2;background:var(--visual-overlay);box-shadow:inset 0 1px 0 rgba(255,255,255,.72),inset 0 -1px 0 rgba(255,255,255,.24)}
+.showcase-drag-zone{position:absolute;z-index:30;top:4px;left:50%;transform:translateX(-50%);height:28px;width:100px;display:grid;place-items:center;color:var(--visual-muted,#827780);opacity:.42;cursor:grab}
+.showcase-drag-zone:active{cursor:grabbing}.showcase-drag-zone svg{width:22px;height:22px}
+.showcase-window-controls{position:absolute;z-index:35;right:13px;top:8px;display:flex;gap:5px;transition:opacity .18s ease,transform .18s ease}
+.showcase-window.controls-on-hover .showcase-window-controls{opacity:.18;transform:translateY(-2px)}
+.showcase-window.controls-on-hover:hover .showcase-window-controls,.showcase-window.controls-on-hover:focus-within .showcase-window-controls{opacity:1;transform:none}
+.showcase-window-controls button{width:31px;height:31px;padding:0;display:grid;place-items:center;border:1px solid rgba(255,255,255,.72);border-radius:12px;color:var(--visual-text);background:color-mix(in srgb,var(--visual-surface) 72%,transparent);backdrop-filter:blur(14px) saturate(1.15);box-shadow:0 7px 20px rgba(30,20,30,.08);transition:.18s}
+.showcase-window-controls button.active{color:var(--visual-primary);background:color-mix(in srgb,var(--visual-surface) 92%,white);box-shadow:0 0 0 2px color-mix(in srgb,var(--visual-primary),transparent 72%)}
+.showcase-window-controls svg{width:15px;height:15px}
+.showcase-mascot{position:absolute;z-index:10;pointer-events:auto;transform-origin:center bottom;filter:drop-shadow(0 14px 11px rgba(26,17,29,.22));will-change:transform}
+.showcase-mascot img{display:block;width:100%;height:auto;max-height:210px;object-fit:contain;pointer-events:none;transform-origin:center bottom}
+.showcase-note-glass{position:absolute;z-index:4;left:8%;right:8%;top:18%;max-height:66%;padding:20px 19px 17px;border:1px solid var(--visual-border);border-radius:calc(var(--visual-radius) * .58);background:var(--visual-glass);backdrop-filter:blur(var(--visual-blur)) saturate(1.12);box-shadow:0 18px 38px rgba(29,22,31,.08),inset 0 1px 0 rgba(255,255,255,.72);color:var(--visual-text);overflow:auto;scrollbar-width:none;user-select:text}
+.showcase-note-glass::-webkit-scrollbar{display:none}
+.showcase-note-glass header{display:flex;align-items:center;gap:10px;margin-bottom:10px}.showcase-note-glass h1{margin:0;min-width:0;font-family:Fredoka,Nunito,sans-serif;font-size:var(--visual-title-size);line-height:1.08;color:var(--visual-text);overflow-wrap:anywhere}
+.showcase-note-icon{width:34px;height:34px;flex:0 0 auto;display:grid;place-items:center;border-radius:12px;background:color-mix(in srgb,var(--visual-primary),transparent 72%);box-shadow:inset 0 1px 0 rgba(255,255,255,.68);font-size:19px}
+.showcase-note-body{font-size:var(--visual-body-size);line-height:1.55;color:var(--visual-text);overflow-wrap:anywhere}.showcase-note-body>*:first-child{margin-top:0}.showcase-note-body>*:last-child{margin-bottom:0}.showcase-note-body p,.showcase-note-body div{margin:.35em 0}.showcase-note-body ul,.showcase-note-body ol{padding-left:1.25em}
+.showcase-checklist{display:grid;gap:7px;margin-top:14px}.showcase-checklist>div{display:grid;grid-template-columns:22px 1fr;gap:8px;align-items:start;padding:6px 7px;border-radius:10px;background:rgba(255,255,255,.22)}.showcase-checklist>div>span{width:20px;height:20px;border:2px solid var(--visual-primary);border-radius:7px;display:grid;place-items:center;color:white;background:transparent}.showcase-checklist>div.done>span{background:var(--visual-primary)}.showcase-checklist svg{width:13px;height:13px}.showcase-checklist p{margin:1px 0 0;font-size:calc(var(--visual-body-size) * .92);line-height:1.35;overflow-wrap:anywhere}.showcase-checklist .done p{text-decoration:line-through;opacity:.62}
+.showcase-progress{display:block;margin-top:12px;color:var(--visual-muted);font-weight:700;font-size:10px;letter-spacing:.03em}
+.showcase-settings{position:absolute;z-index:60;inset:7px;border:1px solid rgba(255,255,255,.76);border-radius:28px;background:color-mix(in srgb,var(--visual-surface) 92%,transparent);backdrop-filter:blur(24px) saturate(1.12);box-shadow:0 28px 70px rgba(31,22,33,.24);overflow:hidden;color:var(--visual-text);display:grid;grid-template-rows:auto auto 1fr}
+.showcase-settings-header{display:grid;grid-template-columns:34px 1fr 34px;gap:9px;align-items:center;padding:15px 14px 10px}.showcase-settings-header button{width:34px;height:34px;border-radius:12px;border:0;background:color-mix(in srgb,var(--visual-surface) 82%,white);color:var(--visual-text);display:grid;place-items:center}.showcase-settings-header svg{width:17px}.showcase-settings-header div{display:grid;min-width:0}.showcase-settings-header b{font:700 17px Fredoka,Nunito,sans-serif;color:var(--visual-text)}.showcase-settings-header small{font-size:9px;color:var(--visual-muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.showcase-settings-tabs{margin:0 14px 10px;padding:5px;display:grid;grid-template-columns:repeat(3,1fr);gap:5px;border-radius:15px;background:color-mix(in srgb,var(--visual-surface) 72%,var(--visual-primary) 8%)}.showcase-settings-tabs button{height:47px;border:0;border-radius:12px;background:transparent;color:var(--visual-muted);display:flex;align-items:center;justify-content:center;gap:5px;font-size:10px;font-weight:700}.showcase-settings-tabs button.active{color:var(--visual-text);background:linear-gradient(135deg,color-mix(in srgb,var(--visual-primary),white 55%),color-mix(in srgb,var(--visual-secondary),white 42%));box-shadow:0 8px 18px rgba(210,120,165,.18)}.showcase-settings-tabs svg{width:16px}
+.showcase-settings-scroll{overflow:auto;padding:0 14px 20px;scrollbar-width:thin;scrollbar-color:#e1a1c5 transparent}.showcase-settings-section{display:grid;gap:12px}.showcase-section-title{display:grid;gap:2px;margin-top:2px}.showcase-section-title.inline{grid-template-columns:1fr auto;align-items:end}.showcase-section-title b{font:700 14px Fredoka,Nunito,sans-serif}.showcase-section-title small{font-size:9px;color:#9a858d}
+.showcase-theme-grid,.showcase-pack-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.showcase-theme-grid button,.showcase-pack-grid button{position:relative;min-width:0;padding:6px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 12%);border-radius:15px;background:color-mix(in srgb,var(--visual-surface) 88%,white);color:var(--visual-text);text-align:left;display:grid;grid-template-columns:48px 1fr;align-items:center;gap:7px;transition:.18s}.showcase-theme-grid button:hover,.showcase-pack-grid button:hover{transform:translateY(-2px);box-shadow:0 10px 20px rgba(80,50,70,.08)}.showcase-theme-grid button.selected,.showcase-pack-grid button.selected{border-color:var(--visual-primary);box-shadow:0 0 0 2px color-mix(in srgb,var(--visual-primary),transparent 82%)}.showcase-theme-grid img{width:48px;height:67px;border-radius:10px;object-fit:cover;background:color-mix(in srgb,var(--visual-surface) 75%,white)}.showcase-pack-grid img{width:48px;height:48px;border-radius:12px;object-fit:contain;background:color-mix(in srgb,var(--visual-surface) 76%,white)}.showcase-theme-grid span,.showcase-pack-grid span{display:grid;min-width:0}.showcase-theme-grid b,.showcase-pack-grid b{font-size:10px;line-height:1.18;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.showcase-theme-grid small,.showcase-pack-grid small{font-size:8px;color:var(--visual-muted)}
+.showcase-background-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.showcase-background-grid button{position:relative;aspect-ratio:9/16;padding:3px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 10%);border-radius:13px;background:color-mix(in srgb,var(--visual-surface) 92%,white);overflow:hidden}.showcase-background-grid img{width:100%;height:100%;object-fit:cover;border-radius:10px}.showcase-background-grid button.selected{border-color:var(--visual-primary);box-shadow:0 0 0 2px color-mix(in srgb,var(--visual-primary),transparent 80%)}.showcase-background-grid i,.showcase-mascot-grid i{position:absolute;right:5px;top:5px;width:21px;height:21px;border-radius:50%;display:grid;place-items:center;color:white;background:var(--visual-primary);box-shadow:0 4px 10px rgba(88,40,66,.2)}.showcase-background-grid i svg,.showcase-mascot-grid i svg{width:13px}
+.showcase-mascot-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;max-height:290px;overflow:auto;padding:2px}.showcase-mascot-grid button{position:relative;aspect-ratio:1;padding:5px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 10%);border-radius:13px;background:color-mix(in srgb,var(--visual-surface) 82%,white)}.showcase-mascot-grid img{width:100%;height:100%;object-fit:contain}.showcase-mascot-grid button.selected{border-color:var(--visual-primary);box-shadow:0 0 0 2px color-mix(in srgb,var(--visual-primary),transparent 82%)}
+.showcase-control-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.showcase-control-grid label,.showcase-select-grid label{padding:10px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 10%);border-radius:13px;background:color-mix(in srgb,var(--visual-surface) 88%,white);display:grid;gap:7px}.showcase-control-grid label>span,.showcase-select-grid label>span{display:flex;justify-content:space-between;font-size:9px;font-weight:700;color:var(--visual-text)}.showcase-control-grid b{color:var(--visual-primary)}.showcase-control-grid input[type=range]{width:100%;accent-color:var(--visual-primary)}.showcase-select-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.showcase-select-grid select{min-width:0;height:34px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 8%);border-radius:10px;background:color-mix(in srgb,var(--visual-surface) 92%,white);color:var(--visual-text);padding:0 7px;font-size:10px;outline:none}
+.showcase-size-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.showcase-size-grid button{min-height:76px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 8%);border-radius:14px;background:color-mix(in srgb,var(--visual-surface) 88%,white);color:var(--visual-text);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px}.showcase-size-grid button.selected{border-color:var(--visual-primary);background:linear-gradient(145deg,color-mix(in srgb,var(--visual-primary),var(--visual-surface) 82%),color-mix(in srgb,var(--visual-secondary),var(--visual-surface) 78%))}.showcase-size-grid svg{width:17px}.showcase-size-grid b{font-size:10px}.showcase-size-grid small{font-size:8px;color:var(--visual-muted)}
+.showcase-toggle{min-height:50px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 8%);border-radius:14px;background:color-mix(in srgb,var(--visual-surface) 88%,white);color:var(--visual-text);padding:9px 12px;display:flex;align-items:center;justify-content:space-between;font-weight:700;font-size:10px}.showcase-toggle i{width:34px;height:22px;border-radius:20px;background:color-mix(in srgb,var(--visual-muted),transparent 35%);display:grid;place-items:center;color:white}.showcase-toggle.active i{background:var(--visual-primary)}.showcase-toggle svg{width:14px}.showcase-visibility-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.showcase-visibility-grid button{height:58px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 8%);border-radius:14px;background:color-mix(in srgb,var(--visual-surface) 88%,white);color:var(--visual-muted);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;font-size:9px}.showcase-visibility-grid button.active{color:var(--visual-text);border-color:var(--visual-primary);background:color-mix(in srgb,var(--visual-primary),var(--visual-surface) 84%)}.showcase-visibility-grid svg{width:16px}
+.showcase-empty{width:100vw;height:100vh;display:grid;place-content:center;gap:12px;text-align:center;border-radius:28px;background:rgba(255,250,247,.92);color:#5d4650}.showcase-empty button{border:0;border-radius:12px;padding:9px 14px;background:#f4a8c9;color:#553b47}
+@media(max-height:680px){.showcase-window{padding-top:20px}.showcase-card{max-height:calc(100vh - 30px)}.showcase-note-glass{top:17%;max-height:68%;padding:15px}.showcase-mascot{transform:scale(.9)}}
+
+/* Chibi Notes 0.4.17 — ventana visual estable */
+html.showcase-html,body.showcase-body,body.showcase-body #root{background:#f8edf4!important}
+body.showcase-body{background:radial-gradient(circle at 12% 10%,#ffe6f0 0,transparent 34%),radial-gradient(circle at 92% 88%,#dff4ff 0,transparent 36%),#f8edf4!important}
+.showcase-window{background:transparent!important;padding:18px!important}
+.showcase-card{width:min(calc(100% - 8px),calc((100vh - 38px)*9/16));max-height:calc(100vh - 36px);background:#fff7f3;border:1px solid rgba(255,255,255,.92);box-shadow:0 24px 55px rgba(79,55,72,.22);overflow:visible}
+.showcase-background{overflow:hidden;background-color:var(--visual-bg-color,#fff7f3)!important;background-image:none!important}
+.showcase-background-image{width:100%;height:100%;display:block;object-fit:cover;object-position:var(--visual-bg-position,50% 50%);transform:scale(calc(var(--visual-bg-size,100%)/100));transform-origin:center}
+.showcase-overlay{background:var(--visual-overlay,rgba(255,255,255,.05))!important}
+.showcase-note-glass{background:var(--visual-glass,rgba(255,255,255,.68))!important;color:var(--visual-text,#3c3037)!important;border-color:var(--visual-border,rgba(255,255,255,.75))!important;box-shadow:0 18px 38px rgba(65,45,58,.12),inset 0 1px 0 rgba(255,255,255,.88)!important}
+.showcase-note-glass h1,.showcase-note-body,.showcase-checklist p{color:var(--visual-text,#3c3037)!important}.showcase-progress{color:var(--visual-muted,#81747a)!important}
+.showcase-window-controls{opacity:1!important;transform:none!important}.showcase-window-controls button{background:rgba(255,255,255,.76)!important;color:var(--visual-text,#3c3037)!important;border-color:rgba(255,255,255,.92)!important}
+.showcase-drag-zone{color:var(--visual-text,#3c3037)!important;opacity:.48!important}
+.showcase-empty{width:100vw;height:100vh;border-radius:0!important;background:linear-gradient(145deg,#fffaf6,#f5e8f2)!important;color:#5d4650;display:grid;place-content:center;justify-items:center;gap:12px;padding:28px;text-align:center}.showcase-empty img{width:74px;height:74px;border-radius:22px;box-shadow:0 12px 30px rgba(104,75,91,.18)}.showcase-empty b{font:700 21px Fredoka,Inter,sans-serif}.showcase-empty p{max-width:340px;margin:0;color:#8c7580;line-height:1.5}.showcase-empty button{min-height:40px;padding:0 15px;border-radius:13px;background:linear-gradient(135deg,#f49abc,#8ed8f6);color:#4f3942;font-weight:800}
+.showcase-background-image{transform-origin:center;transition:transform .2s ease,object-position .2s ease}
+
+/* Chibi Notes 0.4.19 — widget realmente transparente */
+html.showcase-html,
+body.showcase-body,
+body.showcase-body #root{
+  background:transparent!important;
+  background-color:transparent!important;
+}
+body.showcase-body{
+  background:transparent!important;
+}
+.showcase-window{
+  background:transparent!important;
+  padding:14px!important;
+}
+.showcase-card{
+  filter:drop-shadow(0 22px 28px rgba(62,42,54,.24));
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.82)!important;
+}
+.showcase-window .showcase-window-controls{
+  opacity:0!important;
+  transform:translateY(-6px) scale(.96)!important;
+  pointer-events:none!important;
+  transition:opacity .18s ease,transform .18s ease!important;
+}
+.showcase-window:hover .showcase-window-controls,
+.showcase-window:focus-within .showcase-window-controls{
+  opacity:1!important;
+  transform:none!important;
+  pointer-events:auto!important;
+}
+.showcase-window-controls button{
+  background:rgba(255,255,255,.72)!important;
+  backdrop-filter:blur(16px) saturate(1.2)!important;
+  box-shadow:0 7px 20px rgba(45,30,40,.10)!important;
+}
+.showcase-drag-zone{
+  opacity:.18!important;
+  transition:opacity .18s ease!important;
+}
+.showcase-window:hover .showcase-drag-zone{opacity:.55!important}
+
+
+/* v0.4.25 · importación de fondos personalizados para la nota visual */
+.showcase-file-input{display:none!important}
+.showcase-import-background{width:100%;min-height:82px;padding:12px;border:1px dashed color-mix(in srgb,var(--visual-primary),var(--visual-border) 45%);border-radius:18px;background:linear-gradient(135deg,color-mix(in srgb,var(--visual-primary),white 88%),color-mix(in srgb,var(--visual-secondary),white 90%));color:var(--visual-text);display:grid;grid-template-columns:46px minmax(0,1fr) auto;align-items:center;gap:10px;text-align:left;box-shadow:inset 0 1px 0 rgba(255,255,255,.72);transition:.18s}
+.showcase-import-background:hover:not(:disabled){transform:translateY(-2px);border-color:var(--visual-primary);box-shadow:0 12px 24px rgba(83,49,70,.12),inset 0 1px 0 rgba(255,255,255,.8)}
+.showcase-import-background:disabled{cursor:wait;opacity:.78}
+.showcase-import-background>span:nth-child(2){display:grid;gap:3px;min-width:0}
+.showcase-import-background b{font:700 12px Fredoka,Nunito,sans-serif}
+.showcase-import-background small{font-size:8.5px;line-height:1.35;color:var(--visual-muted)}
+.showcase-import-background>i{padding:5px 7px;border-radius:10px;background:rgba(255,255,255,.58);font-style:normal;font-size:8px;font-weight:800;color:var(--visual-muted);display:flex;align-items:center;gap:4px;white-space:nowrap}
+.showcase-import-background>i svg{width:12px;height:12px}
+.showcase-import-icon{width:46px;height:46px;border-radius:15px;display:grid!important;place-items:center;background:linear-gradient(135deg,var(--visual-primary),var(--visual-secondary));color:white;box-shadow:0 8px 18px color-mix(in srgb,var(--visual-primary),transparent 70%)}
+.showcase-import-icon svg{width:22px;height:22px}
+.showcase-import-icon .spinning{animation:showcase-spin .9s linear infinite}
+@keyframes showcase-spin{to{transform:rotate(360deg)}}
+.showcase-import-error{margin:0;padding:8px 10px;border-radius:12px;background:#ffe8eb;color:#9d3d51;font-size:9px;line-height:1.4}
+.showcase-custom-summary{display:grid;gap:2px;padding:9px 11px;border-radius:14px;border:1px solid color-mix(in srgb,var(--visual-primary),transparent 72%);background:color-mix(in srgb,var(--visual-surface),white 18%)}
+.showcase-custom-summary b{font:700 11px Fredoka,Nunito,sans-serif}
+.showcase-custom-summary small{font-size:8px;color:var(--visual-muted)}
+
+.showcase-background-grid{align-items:start}
+.showcase-background-grid .showcase-background-option{position:relative;display:grid;gap:4px;min-width:0}
+.showcase-background-grid .showcase-background-choice{position:relative;width:100%;aspect-ratio:9/16;padding:3px;border:1px solid color-mix(in srgb,var(--visual-border),transparent 10%);border-radius:13px;background:color-mix(in srgb,var(--visual-surface) 92%,white);overflow:hidden}
+.showcase-background-grid .showcase-background-choice img{width:100%;height:100%;object-fit:cover;border-radius:10px}
+.showcase-background-grid .showcase-background-option.selected .showcase-background-choice{border-color:var(--visual-primary);box-shadow:0 0 0 2px color-mix(in srgb,var(--visual-primary),transparent 80%)}
+.showcase-background-grid .showcase-background-delete{position:absolute;z-index:4;left:6px;top:6px;width:24px;height:24px;min-height:0;aspect-ratio:1;padding:0;border:1px solid rgba(255,255,255,.72);border-radius:50%;display:grid;place-items:center;background:rgba(59,39,51,.72);color:white;backdrop-filter:blur(8px);opacity:0;transform:scale(.84);transition:.16s}
+.showcase-background-grid .showcase-background-option:hover .showcase-background-delete{opacity:1;transform:scale(1)}
+.showcase-background-grid .showcase-background-delete:hover{background:#c84f68}
+.showcase-background-grid .showcase-background-delete svg{width:12px;height:12px}
+.showcase-background-option>small{display:block;padding:0 2px;color:var(--visual-muted);font-size:7.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:center}
+
+/* Chibi Notes 0.4.26 · mascotas personalizadas y persistencia visual */
+.showcase-mascot-grid{align-items:start}.showcase-mascot-option{position:relative;min-width:0}.showcase-mascot-option>button:first-child{width:100%}.showcase-mascot-delete{position:absolute!important;right:-4px;top:-4px;z-index:8;width:25px!important;height:25px!important;min-height:0!important;aspect-ratio:auto!important;padding:0!important;border-radius:50%!important;background:#fff1f3!important;color:#c8546c!important;border:1px solid #f4b6c3!important;display:grid!important;place-items:center!important;box-shadow:0 5px 12px rgba(91,43,58,.2)}.showcase-mascot-delete svg{width:13px;height:13px}.showcase-import-mascot .showcase-import-icon{background:linear-gradient(135deg,var(--visual-secondary),var(--visual-primary))}

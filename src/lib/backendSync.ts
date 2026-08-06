@@ -1,0 +1,11 @@
+import type { AssetItem, Note, NoteGroup, SavedTheme } from '../types';
+import { useAppStore } from '../store/useAppStore';
+import { backendRequest } from './backend';
+import { isTauri } from './utils';
+
+type BackendAsset=AssetItem&{kind:'background'|'mascot'|'frame'};
+type Snapshot={notes:Note[];groups:NoteGroup[];themes:SavedTheme[];assets:BackendAsset[]};
+let started=false;let applyingRemote=false;let timer:number|undefined;let lastSerialized='';let saving=false;let saveAgain=false;
+function currentSnapshot():Snapshot{const state=useAppStore.getState();const assets:BackendAsset[]=[...state.customBackgrounds.map(asset=>({...asset,kind:'background' as const})),...state.customMascots.map(asset=>({...asset,kind:'mascot' as const})),...state.customFrames.map(asset=>({...asset,kind:'frame' as const}))];return {notes:state.notes,groups:state.groups,themes:state.themes.filter(theme=>!theme.builtin),assets};}
+async function saveSnapshot(){const snapshot=currentSnapshot();const serialized=JSON.stringify(snapshot);if(serialized===lastSerialized)return;if(saving){saveAgain=true;return;}saving=true;try{await backendRequest('sync.snapshot',snapshot as unknown as Record<string,unknown>);lastSerialized=serialized;}finally{saving=false;if(saveAgain){saveAgain=false;void saveSnapshot();}}}
+export async function startBackendSync(){if(started||!isTauri())return;started=true;const syncNow=()=>{window.clearTimeout(timer);void saveSnapshot().catch(error=>console.warn('No se pudo sincronizar inmediatamente con SQLite:',error));};window.addEventListener('chibi:sync-now',syncNow);try{const snapshot=await backendRequest<Snapshot>('initialize');const remoteGroups=snapshot.groups||[];const hasRemote=snapshot.notes.length||remoteGroups.length||snapshot.themes.length||snapshot.assets.length;if(hasRemote){applyingRemote=true;useAppStore.getState().hydrateFromBackend(snapshot.notes,remoteGroups,snapshot.themes,snapshot.assets);queueMicrotask(()=>{lastSerialized=JSON.stringify(currentSnapshot());applyingRemote=false});}else await saveSnapshot();}catch(error){console.warn('Chibi Notes continuará en modo local:',error)}useAppStore.subscribe(()=>{if(applyingRemote)return;window.clearTimeout(timer);timer=window.setTimeout(async()=>{try{await saveSnapshot()}catch(error){console.warn('No se pudo sincronizar con SQLite:',error)}},900);});}

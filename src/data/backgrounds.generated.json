@@ -1,0 +1,932 @@
+[
+  {
+    "id": "cotton-candy-cloud",
+    "name": "Cotton Candy Cloud",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff3fa",
+      "#f7b8d9",
+      "#bfd9ff",
+      "#d8c4ff",
+      "#49394a"
+    ],
+    "pattern": "clouds",
+    "src": "/assets/backgrounds/cotton-candy-cloud.svg",
+    "builtin": true
+  },
+  {
+    "id": "strawberry-diary",
+    "name": "Strawberry Diary",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff7f7",
+      "#f66d7a",
+      "#ffb1b9",
+      "#fff0d8",
+      "#4d3034"
+    ],
+    "pattern": "strawberry",
+    "src": "/assets/backgrounds/strawberry-diary.svg",
+    "builtin": true
+  },
+  {
+    "id": "vanilla-milk",
+    "name": "Vanilla Milk",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff9e9",
+      "#f2d9a6",
+      "#e8bfa5",
+      "#ffffff",
+      "#40382e"
+    ],
+    "pattern": "paper",
+    "src": "/assets/backgrounds/vanilla-milk.svg",
+    "builtin": true
+  },
+  {
+    "id": "mint-macaron",
+    "name": "Mint Macaron",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#effff6",
+      "#88d6b5",
+      "#f1b9d2",
+      "#e4d4ff",
+      "#314a41"
+    ],
+    "pattern": "macaron",
+    "src": "/assets/backgrounds/mint-macaron.svg",
+    "builtin": true
+  },
+  {
+    "id": "peach-soda",
+    "name": "Peach Soda",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff1e8",
+      "#ffab82",
+      "#ffd2b8",
+      "#bdebeb",
+      "#453633"
+    ],
+    "pattern": "bubbles",
+    "src": "/assets/backgrounds/peach-soda.svg",
+    "builtin": true
+  },
+  {
+    "id": "sakura-breeze",
+    "name": "Sakura Breeze",
+    "category": "Estaciones y naturaleza",
+    "palette": [
+      "#fff5f7",
+      "#f5a6bc",
+      "#ffd0dc",
+      "#a7c9a0",
+      "#49363e"
+    ],
+    "pattern": "petals",
+    "src": "/assets/backgrounds/sakura-breeze.svg",
+    "builtin": true
+  },
+  {
+    "id": "spring-meadow",
+    "name": "Spring Meadow",
+    "category": "Estaciones y naturaleza",
+    "palette": [
+      "#f4ffe9",
+      "#8dd77b",
+      "#f9ce69",
+      "#a7daff",
+      "#334634"
+    ],
+    "pattern": "meadow",
+    "src": "/assets/backgrounds/spring-meadow.svg",
+    "builtin": true
+  },
+  {
+    "id": "summer-lemon",
+    "name": "Summer Lemon",
+    "category": "Estaciones y naturaleza",
+    "palette": [
+      "#fffce8",
+      "#f8df4e",
+      "#aadb8c",
+      "#8fd4e8",
+      "#3e4028"
+    ],
+    "pattern": "lemon",
+    "src": "/assets/backgrounds/summer-lemon.svg",
+    "builtin": true
+  },
+  {
+    "id": "autumn-acorn",
+    "name": "Autumn Acorn",
+    "category": "Estaciones y naturaleza",
+    "palette": [
+      "#fff4df",
+      "#c77a3a",
+      "#8e5131",
+      "#d7a747",
+      "#3d2d23"
+    ],
+    "pattern": "leaves",
+    "src": "/assets/backgrounds/autumn-acorn.svg",
+    "builtin": true
+  },
+  {
+    "id": "winter-cocoa",
+    "name": "Winter Cocoa",
+    "category": "Estaciones y naturaleza",
+    "palette": [
+      "#f2f7fa",
+      "#a9c8db",
+      "#9b6651",
+      "#e8d6c5",
+      "#313b45"
+    ],
+    "pattern": "snow",
+    "src": "/assets/backgrounds/winter-cocoa.svg",
+    "builtin": true
+  },
+  {
+    "id": "matcha-caf",
+    "name": "Matcha Café",
+    "category": "Cafetería y comida",
+    "palette": [
+      "#f5f4e8",
+      "#86a66a",
+      "#bac89d",
+      "#c89a76",
+      "#34402e"
+    ],
+    "pattern": "matcha",
+    "src": "/assets/backgrounds/matcha-caf.svg",
+    "builtin": true
+  },
+  {
+    "id": "honey-toast",
+    "name": "Honey Toast",
+    "category": "Cafetería y comida",
+    "palette": [
+      "#fff6d8",
+      "#e8ac3b",
+      "#f6d46b",
+      "#c98349",
+      "#463625"
+    ],
+    "pattern": "honey",
+    "src": "/assets/backgrounds/honey-toast.svg",
+    "builtin": true
+  },
+  {
+    "id": "blueberry-tart",
+    "name": "Blueberry Tart",
+    "category": "Cafetería y comida",
+    "palette": [
+      "#f8f5ff",
+      "#6676c8",
+      "#a69bdd",
+      "#e6c985",
+      "#34354d"
+    ],
+    "pattern": "berries",
+    "src": "/assets/backgrounds/blueberry-tart.svg",
+    "builtin": true
+  },
+  {
+    "id": "bento-picnic",
+    "name": "Bento Picnic",
+    "category": "Cafetería y comida",
+    "palette": [
+      "#fff8e9",
+      "#f47d6d",
+      "#7eb77f",
+      "#f3c969",
+      "#403831"
+    ],
+    "pattern": "bento",
+    "src": "/assets/backgrounds/bento-picnic.svg",
+    "builtin": true
+  },
+  {
+    "id": "ramune-pop",
+    "name": "Ramune Pop",
+    "category": "Cafetería y comida",
+    "palette": [
+      "#ebfaff",
+      "#56c3e6",
+      "#a6e6f5",
+      "#ff9cac",
+      "#264451"
+    ],
+    "pattern": "ramune",
+    "src": "/assets/backgrounds/ramune-pop.svg",
+    "builtin": true
+  },
+  {
+    "id": "moonlight-witch",
+    "name": "Moonlight Witch",
+    "category": "Magia y fantasía",
+    "palette": [
+      "#1f1933",
+      "#7866b7",
+      "#c2a7ff",
+      "#f2d77d",
+      "#f8f4ff"
+    ],
+    "pattern": "moon",
+    "src": "/assets/backgrounds/moonlight-witch.svg",
+    "builtin": true
+  },
+  {
+    "id": "fairy-garden",
+    "name": "Fairy Garden",
+    "category": "Magia y fantasía",
+    "palette": [
+      "#f6fff3",
+      "#8fd49a",
+      "#e9a7d5",
+      "#b7a6f6",
+      "#354537"
+    ],
+    "pattern": "fairy",
+    "src": "/assets/backgrounds/fairy-garden.svg",
+    "builtin": true
+  },
+  {
+    "id": "star-princess",
+    "name": "Star Princess",
+    "category": "Magia y fantasía",
+    "palette": [
+      "#fff5ff",
+      "#d597e8",
+      "#8e8eea",
+      "#ffe38a",
+      "#44364f"
+    ],
+    "pattern": "stars",
+    "src": "/assets/backgrounds/star-princess.svg",
+    "builtin": true
+  },
+  {
+    "id": "crystal-cave",
+    "name": "Crystal Cave",
+    "category": "Magia y fantasía",
+    "palette": [
+      "#effbff",
+      "#60b5ce",
+      "#7f84d9",
+      "#b7dff4",
+      "#263849"
+    ],
+    "pattern": "crystal",
+    "src": "/assets/backgrounds/crystal-cave.svg",
+    "builtin": true
+  },
+  {
+    "id": "dragon-treasure",
+    "name": "Dragon Treasure",
+    "category": "Magia y fantasía",
+    "palette": [
+      "#fff1d2",
+      "#b85d3a",
+      "#d8a43f",
+      "#4f8a7b",
+      "#3d2b25"
+    ],
+    "pattern": "treasure",
+    "src": "/assets/backgrounds/dragon-treasure.svg",
+    "builtin": true
+  },
+  {
+    "id": "washi-festival",
+    "name": "Washi Festival",
+    "category": "Papelería japonesa",
+    "palette": [
+      "#fff8ee",
+      "#e85d75",
+      "#3e789c",
+      "#f1b84b",
+      "#383137"
+    ],
+    "pattern": "washi",
+    "src": "/assets/backgrounds/washi-festival.svg",
+    "builtin": true
+  },
+  {
+    "id": "kawaii-manga",
+    "name": "Kawaii Manga",
+    "category": "Papelería japonesa",
+    "palette": [
+      "#fffdfd",
+      "#f19abc",
+      "#b99add",
+      "#5d5d68",
+      "#28252c"
+    ],
+    "pattern": "manga",
+    "src": "/assets/backgrounds/kawaii-manga.svg",
+    "builtin": true
+  },
+  {
+    "id": "kokeshi-atelier",
+    "name": "Kokeshi Atelier",
+    "category": "Papelería japonesa",
+    "palette": [
+      "#faf1df",
+      "#bf574f",
+      "#355c59",
+      "#d7a552",
+      "#3b302a"
+    ],
+    "pattern": "wood",
+    "src": "/assets/backgrounds/kokeshi-atelier.svg",
+    "builtin": true
+  },
+  {
+    "id": "onsen-evening",
+    "name": "Onsen Evening",
+    "category": "Papelería japonesa",
+    "palette": [
+      "#f5eee5",
+      "#d88975",
+      "#759b9a",
+      "#a9b9c2",
+      "#37383a"
+    ],
+    "pattern": "onsen",
+    "src": "/assets/backgrounds/onsen-evening.svg",
+    "builtin": true
+  },
+  {
+    "id": "stationery-box",
+    "name": "Stationery Box",
+    "category": "Papelería japonesa",
+    "palette": [
+      "#fff7e8",
+      "#f4a6b8",
+      "#78bfc4",
+      "#f0cc65",
+      "#43404a"
+    ],
+    "pattern": "grid",
+    "src": "/assets/backgrounds/stationery-box.svg",
+    "builtin": true
+  },
+  {
+    "id": "holo-pixel",
+    "name": "Holo Pixel",
+    "category": "Tecnología y gaming",
+    "palette": [
+      "#121526",
+      "#62e5f5",
+      "#c779ff",
+      "#ff8cc6",
+      "#f3faff"
+    ],
+    "pattern": "holo",
+    "src": "/assets/backgrounds/holo-pixel.svg",
+    "builtin": true
+  },
+  {
+    "id": "neon-arcade",
+    "name": "Neon Arcade",
+    "category": "Tecnología y gaming",
+    "palette": [
+      "#171124",
+      "#ff4fb3",
+      "#36d9ff",
+      "#a7f542",
+      "#ffffff"
+    ],
+    "pattern": "arcade",
+    "src": "/assets/backgrounds/neon-arcade.svg",
+    "builtin": true
+  },
+  {
+    "id": "pastel-circuit",
+    "name": "Pastel Circuit",
+    "category": "Tecnología y gaming",
+    "palette": [
+      "#f6f8ff",
+      "#818cf8",
+      "#67d6c0",
+      "#f6a7c1",
+      "#30364b"
+    ],
+    "pattern": "circuit",
+    "src": "/assets/backgrounds/pastel-circuit.svg",
+    "builtin": true
+  },
+  {
+    "id": "mecha-sticker",
+    "name": "Mecha Sticker",
+    "category": "Tecnología y gaming",
+    "palette": [
+      "#eef2f4",
+      "#3c82c4",
+      "#ef5c61",
+      "#f1c84b",
+      "#26323b"
+    ],
+    "pattern": "mecha",
+    "src": "/assets/backgrounds/mecha-sticker.svg",
+    "builtin": true
+  },
+  {
+    "id": "space-terminal",
+    "name": "Space Terminal",
+    "category": "Tecnología y gaming",
+    "palette": [
+      "#0d1421",
+      "#54d4c8",
+      "#7ea2ff",
+      "#e7c96a",
+      "#eaf2ff"
+    ],
+    "pattern": "space",
+    "src": "/assets/backgrounds/space-terminal.svg",
+    "builtin": true
+  },
+  {
+    "id": "library-tea",
+    "name": "Library Tea",
+    "category": "Estudio y creatividad",
+    "palette": [
+      "#f5eedc",
+      "#7c513f",
+      "#a78a5d",
+      "#617760",
+      "#312b28"
+    ],
+    "pattern": "library",
+    "src": "/assets/backgrounds/library-tea.svg",
+    "builtin": true
+  },
+  {
+    "id": "pencil-case",
+    "name": "Pencil Case",
+    "category": "Estudio y creatividad",
+    "palette": [
+      "#fff9e9",
+      "#f06e6e",
+      "#5da9e9",
+      "#f2c84b",
+      "#39404b"
+    ],
+    "pattern": "lined",
+    "src": "/assets/backgrounds/pencil-case.svg",
+    "builtin": true
+  },
+  {
+    "id": "science-lab",
+    "name": "Science Lab",
+    "category": "Estudio y creatividad",
+    "palette": [
+      "#f3fbfc",
+      "#40afc1",
+      "#7d8fe8",
+      "#f2a65a",
+      "#2e4147"
+    ],
+    "pattern": "science",
+    "src": "/assets/backgrounds/science-lab.svg",
+    "builtin": true
+  },
+  {
+    "id": "music-practice",
+    "name": "Music Practice",
+    "category": "Estudio y creatividad",
+    "palette": [
+      "#fff7fc",
+      "#bc78c8",
+      "#697ed3",
+      "#f0a8b9",
+      "#383343"
+    ],
+    "pattern": "music",
+    "src": "/assets/backgrounds/music-practice.svg",
+    "builtin": true
+  },
+  {
+    "id": "art-desk",
+    "name": "Art Desk",
+    "category": "Estudio y creatividad",
+    "palette": [
+      "#fffdf5",
+      "#e87575",
+      "#58a9c2",
+      "#e6b95c",
+      "#39414a"
+    ],
+    "pattern": "paint",
+    "src": "/assets/backgrounds/art-desk.svg",
+    "builtin": true
+  },
+  {
+    "id": "paris-postcard",
+    "name": "Paris Postcard",
+    "category": "Viajes y mundos",
+    "palette": [
+      "#fff4ea",
+      "#c95a63",
+      "#607a91",
+      "#d4b080",
+      "#40332f"
+    ],
+    "pattern": "postcard",
+    "src": "/assets/backgrounds/paris-postcard.svg",
+    "builtin": true
+  },
+  {
+    "id": "nordic-cabin",
+    "name": "Nordic Cabin",
+    "category": "Viajes y mundos",
+    "palette": [
+      "#f3f5f2",
+      "#7b9a9a",
+      "#c78c69",
+      "#d9c8aa",
+      "#303938"
+    ],
+    "pattern": "nordic",
+    "src": "/assets/backgrounds/nordic-cabin.svg",
+    "builtin": true
+  },
+  {
+    "id": "tropical-island",
+    "name": "Tropical Island",
+    "category": "Viajes y mundos",
+    "palette": [
+      "#f3fff6",
+      "#31bba3",
+      "#61cbe6",
+      "#ffb85a",
+      "#294b45"
+    ],
+    "pattern": "tropical",
+    "src": "/assets/backgrounds/tropical-island.svg",
+    "builtin": true
+  },
+  {
+    "id": "desert-caravan",
+    "name": "Desert Caravan",
+    "category": "Viajes y mundos",
+    "palette": [
+      "#fff2d8",
+      "#d58b54",
+      "#965a62",
+      "#4b738a",
+      "#3a2d2a"
+    ],
+    "pattern": "desert",
+    "src": "/assets/backgrounds/desert-caravan.svg",
+    "builtin": true
+  },
+  {
+    "id": "ocean-voyage",
+    "name": "Ocean Voyage",
+    "category": "Viajes y mundos",
+    "palette": [
+      "#effbff",
+      "#397fa5",
+      "#78c4d3",
+      "#e5b85c",
+      "#293c49"
+    ],
+    "pattern": "ocean",
+    "src": "/assets/backgrounds/ocean-voyage.svg",
+    "builtin": true
+  },
+  {
+    "id": "gothic-lace",
+    "name": "Gothic Lace",
+    "category": "Nocturnos y alternativos",
+    "palette": [
+      "#17151b",
+      "#6f536f",
+      "#a66a7f",
+      "#b8b2c3",
+      "#f6f1f6"
+    ],
+    "pattern": "lace",
+    "src": "/assets/backgrounds/gothic-lace.svg",
+    "builtin": true
+  },
+  {
+    "id": "dark-academia",
+    "name": "Dark Academia",
+    "category": "Nocturnos y alternativos",
+    "palette": [
+      "#27221d",
+      "#6e513b",
+      "#a7845a",
+      "#6f7757",
+      "#f1e5ce"
+    ],
+    "pattern": "academia",
+    "src": "/assets/backgrounds/dark-academia.svg",
+    "builtin": true
+  },
+  {
+    "id": "midnight-rain",
+    "name": "Midnight Rain",
+    "category": "Nocturnos y alternativos",
+    "palette": [
+      "#101927",
+      "#365c7a",
+      "#557f9e",
+      "#9cb9d0",
+      "#eef6ff"
+    ],
+    "pattern": "rain",
+    "src": "/assets/backgrounds/midnight-rain.svg",
+    "builtin": true
+  },
+  {
+    "id": "mystic-forest",
+    "name": "Mystic Forest",
+    "category": "Nocturnos y alternativos",
+    "palette": [
+      "#16251f",
+      "#43735d",
+      "#7e9d68",
+      "#c69bce",
+      "#f1f6e9"
+    ],
+    "pattern": "forest",
+    "src": "/assets/backgrounds/mystic-forest.svg",
+    "builtin": true
+  },
+  {
+    "id": "vampire-berry",
+    "name": "Vampire Berry",
+    "category": "Nocturnos y alternativos",
+    "palette": [
+      "#211722",
+      "#8c294d",
+      "#c85572",
+      "#a78ab7",
+      "#fff2f5"
+    ],
+    "pattern": "vampire",
+    "src": "/assets/backgrounds/vampire-berry.svg",
+    "builtin": true
+  },
+  {
+    "id": "cottagecore-picnic",
+    "name": "Cottagecore Picnic",
+    "category": "Tendencias especiales",
+    "palette": [
+      "#f9f4e5",
+      "#899e68",
+      "#c5836a",
+      "#d7b96e",
+      "#394132"
+    ],
+    "pattern": "cottage",
+    "src": "/assets/backgrounds/cottagecore-picnic.svg",
+    "builtin": true
+  },
+  {
+    "id": "y2k-bubble",
+    "name": "Y2K Bubble",
+    "category": "Tendencias especiales",
+    "palette": [
+      "#f8f4ff",
+      "#a88bff",
+      "#7de2e7",
+      "#ff91c8",
+      "#3e3652"
+    ],
+    "pattern": "y2k",
+    "src": "/assets/backgrounds/y2k-bubble.svg",
+    "builtin": true
+  },
+  {
+    "id": "minimal-zen",
+    "name": "Minimal Zen",
+    "category": "Tendencias especiales",
+    "palette": [
+      "#f6f5f0",
+      "#d8d4c7",
+      "#8c9a8a",
+      "#b49675",
+      "#292c29"
+    ],
+    "pattern": "zen",
+    "src": "/assets/backgrounds/minimal-zen.svg",
+    "builtin": true
+  },
+  {
+    "id": "monochrome-ink",
+    "name": "Monochrome Ink",
+    "category": "Tendencias especiales",
+    "palette": [
+      "#ffffff",
+      "#d9d9d9",
+      "#747474",
+      "#202020",
+      "#000000"
+    ],
+    "pattern": "ink",
+    "src": "/assets/backgrounds/monochrome-ink.svg",
+    "builtin": true
+  },
+  {
+    "id": "accessibility-comfort",
+    "name": "Accessibility Comfort",
+    "category": "Tendencias especiales",
+    "palette": [
+      "#ffffff",
+      "#005fcc",
+      "#f2b700",
+      "#d8e8ff",
+      "#171717"
+    ],
+    "pattern": "accessibility",
+    "src": "/assets/backgrounds/accessibility-comfort.svg",
+    "builtin": true
+  },
+  {
+    "id": "bubblegum-bliss",
+    "name": "Bubblegum Bliss",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff2fb",
+      "#ffb7d5",
+      "#ffdff0",
+      "#b8e8ff",
+      "#5e4360"
+    ],
+    "pattern": "bubbles",
+    "src": "/assets/backgrounds/bubblegum-bliss.svg",
+    "builtin": true
+  },
+  {
+    "id": "lavender-milkshake",
+    "name": "Lavender Milkshake",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#faf5ff",
+      "#cbb7ff",
+      "#e9dcff",
+      "#fdf8ff",
+      "#55456e"
+    ],
+    "pattern": "milkshake",
+    "src": "/assets/backgrounds/lavender-milkshake.svg",
+    "builtin": true
+  },
+  {
+    "id": "marshmallow-party",
+    "name": "Marshmallow Party",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fffaf5",
+      "#ffd8f0",
+      "#d9f1ff",
+      "#fff3c4",
+      "#5a4c54"
+    ],
+    "pattern": "marshmallow",
+    "src": "/assets/backgrounds/marshmallow-party.svg",
+    "builtin": true
+  },
+  {
+    "id": "pistachio-pudding",
+    "name": "Pistachio Pudding",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#f6fff2",
+      "#b9e6a8",
+      "#e8ffd8",
+      "#fff5c9",
+      "#4b5a44"
+    ],
+    "pattern": "pudding",
+    "src": "/assets/backgrounds/pistachio-pudding.svg",
+    "builtin": true
+  },
+  {
+    "id": "rose-gelato",
+    "name": "Rose Gelato",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff5f8",
+      "#f6b2ca",
+      "#ffd8e7",
+      "#f4e7ff",
+      "#65475b"
+    ],
+    "pattern": "gelato",
+    "src": "/assets/backgrounds/rose-gelato.svg",
+    "builtin": true
+  },
+  {
+    "id": "cupcake-confetti",
+    "name": "Cupcake Confetti",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff8ef",
+      "#ffc9aa",
+      "#ffe3d2",
+      "#d9ccff",
+      "#604c56"
+    ],
+    "pattern": "confetti",
+    "src": "/assets/backgrounds/cupcake-confetti.svg",
+    "builtin": true
+  },
+  {
+    "id": "milky-rainbow",
+    "name": "Milky Rainbow",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fdfcff",
+      "#ffd8e1",
+      "#d9f3ff",
+      "#f8e4ff",
+      "#4e4c67"
+    ],
+    "pattern": "rainbow",
+    "src": "/assets/backgrounds/milky-rainbow.svg",
+    "builtin": true
+  },
+  {
+    "id": "peachy-hearts",
+    "name": "Peachy Hearts",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff4ed",
+      "#ffc5a8",
+      "#ffe1d2",
+      "#ffd4ec",
+      "#644b49"
+    ],
+    "pattern": "hearts",
+    "src": "/assets/backgrounds/peachy-hearts.svg",
+    "builtin": true
+  },
+  {
+    "id": "lilac-soda-fizz",
+    "name": "Lilac Soda Fizz",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#f7f4ff",
+      "#ceb8ff",
+      "#e9ddff",
+      "#c8f4ff",
+      "#4d4a67"
+    ],
+    "pattern": "fizz",
+    "src": "/assets/backgrounds/lilac-soda-fizz.svg",
+    "builtin": true
+  },
+  {
+    "id": "sugar-starfall",
+    "name": "Sugar Starfall",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fffaf8",
+      "#ffd7eb",
+      "#e4dcff",
+      "#cfefff",
+      "#584f63"
+    ],
+    "pattern": "stars",
+    "src": "/assets/backgrounds/sugar-starfall.svg",
+    "builtin": true
+  },
+  {
+    "id": "caramel-mochi",
+    "name": "Caramel Mochi",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#fff8f1",
+      "#efc39b",
+      "#ffe3cc",
+      "#f5d4b8",
+      "#664c3f"
+    ],
+    "pattern": "mochi",
+    "src": "/assets/backgrounds/caramel-mochi.svg",
+    "builtin": true
+  },
+  {
+    "id": "minty-dreams",
+    "name": "Minty Dreams",
+    "category": "Dulces y pastel",
+    "palette": [
+      "#f3fff9",
+      "#a8e8cf",
+      "#dbfff1",
+      "#d7f4ff",
+      "#436159"
+    ],
+    "pattern": "mint",
+    "src": "/assets/backgrounds/minty-dreams.svg",
+    "builtin": true
+  }
+]
