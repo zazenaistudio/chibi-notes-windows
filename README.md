@@ -1,181 +1,359 @@
 <div align="center">
-  <img src="docs/assets/branding/chibi-notes-icon.png" alt="Icono de Chibi Notes" width="180">
+  <img src="docs/assets/branding/chibi-notes-icon.png" alt="Chibi Notes" width="120" />
+  <h1>🌸 Chibi Notes</h1>
+  <p><strong>Gestor de notas visuales y kawaii para Windows</strong></p>
+  <p>
+    Organiza tus ideas, crea widgets visuales y personaliza cada nota
+    con una experiencia suave, adorable y moderna creada por <strong>Zazen AI Studio</strong>.
+  </p>
 
-# Chibi Notes
+  <p>
+    <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-66C7F2?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11" />
+    <img src="https://img.shields.io/badge/Tauri-2.x-F5C451?style=for-the-badge&logo=tauri&logoColor=2F2F2F" alt="Tauri 2" />
+    <img src="https://img.shields.io/badge/React-TypeScript-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React TypeScript" />
+    <img src="https://img.shields.io/badge/Python-Backend-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python Backend" />
+  </p>
 
-### Tu gestor de notas kawaii para Windows
-
-Organiza ideas, crea widgets visuales, programa recordatorios y personaliza cada nota con fondos, mascotas, marcos, iconos y colores.
-
-[![Version](https://img.shields.io/badge/version-0.4.26-ff7f9f?style=for-the-badge)](../../releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-66c7f2?style=for-the-badge&logo=windows11&logoColor=white)](#requisitos)
-[![Tauri](https://img.shields.io/badge/Tauri-2-f5c451?style=for-the-badge&logo=tauri&logoColor=2f2f2f)](https://tauri.app/)
-[![React](https://img.shields.io/badge/React-19-8bdcf5?style=for-the-badge&logo=react&logoColor=24303a)](https://react.dev/)
-[![License](https://img.shields.io/badge/licencia-Zazen%20AI%20Studio-c8a4ff?style=for-the-badge)](LICENSE)
-
-[Descargar la última versión](../../releases/latest) · [Ver características](#características-principales) · [Compilar en Windows](#desarrollo-y-compilación)
+  <p>
+    <img src="https://img.shields.io/badge/Estado-Activo-22C55E?style=for-the-badge" alt="Estado activo" />
+    <img src="https://img.shields.io/badge/Versión-0.4.26-FF7F9F?style=for-the-badge" alt="Versión 0.4.26" />
+    <img src="https://img.shields.io/badge/Licencia-Zazen%20AI%20Studio-C8A4FF?style=for-the-badge" alt="Licencia Zazen AI Studio" />
+  </p>
 </div>
 
-![Presentación general de Chibi Notes](docs/assets/promo/promo-01-overview.png)
+---
 
-## ¿Qué es Chibi Notes?
+## 🌷 Vista general
 
-**Chibi Notes** es una aplicación de escritorio para Windows que combina un gestor de notas completo con una experiencia visual kawaii. Permite trabajar desde un dashboard central, abrir notas como ventanas independientes en formato 9:16, organizar proyectos en grupos y adaptar cada espacio con una gran biblioteca de recursos visuales.
+<p align="center">
+  <img src="docs/assets/promo/promo-01-overview.png" alt="Chibi Notes - Vista general" width="100%" />
+</p>
 
-El proyecto está desarrollado por **Zazen AI Studio** con Tauri 2, React, TypeScript, Rust, Python, SQLite y Vosk.
+**Chibi Notes** es una aplicación de escritorio para **Windows 10 y 11** que combina un gestor de notas completo con una experiencia visual **kawaii, flexible y centrada en la productividad**.
 
-## Características principales
+Permite crear y organizar notas desde un dashboard central, trabajar con tareas y recordatorios, vincular archivos y páginas web, utilizar herramientas creativas y abrir cualquier nota como una **ventana visual independiente en formato 9:16**.
 
-| | Función | Descripción |
-|---|---|---|
-| 🗂️ | **Notas y grupos** | Crea, edita, fija, archiva, mueve y organiza notas mediante grupos, categorías, etiquetas e iconos. |
-| 🪟 | **Ventanas visuales 9:16** | Abre notas como widgets independientes para el escritorio, con configuraciones visuales propias. |
-| 🎨 | **Personalización avanzada** | Cambia fondos, mascotas, marcos, bordes, tipografías, colores, efectos, sonidos y dimensiones. |
-| 🎙️ | **Dictado local** | Convierte voz en texto en español o inglés mediante Vosk, sin enviar el audio a servicios externos. |
-| 🔔 | **Recordatorios** | Programa avisos nativos de Windows y conserva el control desde la propia nota. |
-| 📎 | **Archivos y webs** | Vincula rutas locales y páginas web a cada nota, con apertura, edición, copia y eliminación. |
-| ✏️ | **Herramientas creativas** | Escribe texto enriquecido, crea checklists, dibuja bocetos y adjunta imágenes. |
-| 🔍 | **Búsqueda rápida** | Localiza notas por título y encuentra coincidencias dentro del contenido actual. |
-| 🔒 | **Privacidad y bloqueo** | Mantén los datos en local, bloquea notas y usa funciones de voz sin depender de la nube. |
-| 📤 | **Exportación** | Exporta notas en TXT, PDF, Markdown y JSON. |
+La identidad del proyecto está protagonizada por **Chibi**, una pequeña mascota que acompaña al usuario dentro de una interfaz pastel, amable y altamente personalizable.
 
-## Ventanas visuales y personalización
+---
 
-![Ventanas visuales y personalización](docs/assets/promo/promo-02-widgets-personalization.png)
+## ✨ Qué hace Chibi Notes
 
-Cada ventana visual mantiene su propio fondo, mascota, escala, posición, transparencia, vidrio, bordes y estilo. Los fondos personalizados se recortan y optimizan automáticamente en relación 9:16, y la interfaz calcula una paleta compatible con la imagen seleccionada.
+- 📝 **Crea y edita notas** con texto enriquecido, iconos y contenido visual.
+- 🗂️ **Organiza tus ideas por grupos, categorías y etiquetas**.
+- ✅ **Gestiona checklists y tareas pendientes** desde cada nota.
+- 🪟 **Convierte notas en widgets visuales 9:16** para el escritorio.
+- 🎨 **Personaliza fondos, mascotas, marcos, colores, tipografías y sonidos**.
+- 🎙️ **Convierte voz en texto de forma local** en español e inglés.
+- 🔔 **Programa recordatorios nativos de Windows**.
+- 📎 **Conecta archivos, imágenes y páginas web** con tus notas.
+- 🔒 **Bloquea contenido y conserva tus datos en local**.
+- 📤 **Exporta en TXT, PDF, Markdown y JSON**.
 
-## Herramientas para crear más
+---
 
-![Herramientas creativas](docs/assets/promo/promo-03-creative-tools.png)
+## 🐥 Características principales
 
-El centro de herramientas reúne escritura, checklist, dibujo, dictado local, recordatorios, adjuntos, enlaces, búsqueda, modo estudio, exportación y opciones de protección en una interfaz guiada.
+### 🗂️ Organización visual de notas
 
-## Organiza, comparte y protege
+<p align="center">
+  <img src="docs/assets/promo/promo-04-organize-share-protect.png" alt="Organización, exportación y protección en Chibi Notes" width="100%" />
+</p>
 
-![Organización, exportación y protección](docs/assets/promo/promo-04-organize-share-protect.png)
+Chibi Notes reúne todas tus ideas dentro de un dashboard visual y fácil de explorar:
 
-El dashboard muestra métricas por grupo, notas fijadas, tareas pendientes y accesos rápidos. Las notas pueden conectarse con archivos y páginas web, exportarse a formatos comunes y mantenerse protegidas dentro de la aplicación.
+- **Grupos personalizados** con nombre, color e icono.
+- **Categorías, etiquetas e iconos kawaii** para identificar contenido.
+- **Notas fijadas, archivadas y organizadas** desde un único espacio.
+- **Métricas por grupo** con notas activas, fijadas y tareas pendientes.
+- **Búsqueda rápida** por título y contenido.
+- **Archivos y webs vinculados** a cada nota.
+- **Exportación** a formatos comunes.
+- **Bloqueo de notas** para proteger contenido importante.
 
-## Biblioteca visual incluida
+Cada nota puede moverse, clasificarse, personalizarse y reutilizarse sin perder su identidad visual.
 
-- **62 fondos temáticos** para el editor principal.
-- **74 fondos verticales 9:16** distribuidos en 11 estilos visuales.
-- **662 mascotas** organizadas en 11 colecciones.
-- **422 iconos kawaii** distribuidos en 22 temáticas.
-- **20 ilustraciones funcionales** para el centro de herramientas.
-- **12 marcos y bordes**, incluidos estilos animados.
-- **23 efectos de sonido** configurables.
-- **49 opciones tipográficas** y 8 paletas globales de interfaz.
+---
 
-## Privacidad y funcionamiento local
+### 🪟 Ventanas visuales y personalización
 
-Chibi Notes guarda las notas y preferencias mediante SQLite en el equipo del usuario. El dictado utiliza modelos locales de Vosk y el texto a voz emplea las voces instaladas en Windows. La aplicación no necesita una cuenta para crear y organizar notas.
+<p align="center">
+  <img src="docs/assets/promo/promo-02-widgets-personalization.png" alt="Ventanas visuales y personalización de Chibi Notes" width="100%" />
+</p>
 
-## Instalación para usuarios
+Cualquier nota puede abrirse como una ventana visual independiente para utilizarla como recordatorio, lista, panel decorativo o widget de escritorio.
 
-1. Abre la sección [Releases](../../releases/latest).
-2. Descarga `Chibi-Notes-v0.4.26-Setup-x64.exe`.
-3. Comprueba opcionalmente el archivo SHA-256 incluido en la misma versión.
-4. Cierra una instalación anterior de Chibi Notes antes de actualizar.
-5. Ejecuta el instalador y sigue el asistente.
+Cada ventana conserva sus propios ajustes:
 
-> Windows SmartScreen puede mostrar una advertencia mientras el ejecutable no disponga de un certificado comercial de firma de código. Descarga siempre el instalador desde el repositorio oficial de Zazen AI Studio.
+- **Formato vertical 9:16**.
+- **Fondo temático o imagen personalizada**.
+- **Mascota integrada o importada por el usuario**.
+- **Tamaño, escala, posición y redondeado**.
+- **Transparencia, desenfoque y efecto de vidrio**.
+- **Marcos, bordes, colores y tipografías**.
+- **Controles para fijar, mover, personalizar y cerrar**.
 
-## Requisitos
+Los fondos personalizados se recortan y optimizan automáticamente. Chibi Notes calcula además una paleta compatible para mantener la legibilidad de la nota.
 
-### Para usar la aplicación
+---
 
-- Windows 10 u 11 de 64 bits.
-- Microsoft Edge WebView2 Runtime.
-- Micrófono, únicamente para utilizar el dictado.
+### 🎙️ Herramientas creativas y productividad local
 
-### Para desarrollar o compilar
+<p align="center">
+  <img src="docs/assets/promo/promo-03-creative-tools.png" alt="Herramientas creativas de Chibi Notes" width="100%" />
+</p>
 
-- Node.js LTS y npm.
-- Rust estable con toolchain MSVC.
-- Python 3.10, 3.11, 3.12 o 3.13.
-- Microsoft C++ Build Tools y Windows SDK.
-- Microsoft Edge WebView2 Runtime.
+El centro de herramientas reúne funciones para crear, organizar y transformar ideas sin salir de la aplicación:
 
-## Desarrollo y compilación
+- **Escritura enriquecida** para notas libres.
+- **Checklists** y seguimiento de tareas.
+- **Bloc de dibujo** para bocetos rápidos.
+- **Dictado local** en español e inglés mediante Vosk.
+- **Recordatorios** con accesos rápidos de fecha y hora.
+- **Adjuntos, imágenes y enlaces web**.
+- **Búsqueda, modo estudio y texto a voz**.
+- **Opciones de exportación y protección**.
+
+El reconocimiento de voz se realiza de forma local y no necesita enviar el audio a servicios externos.
+
+---
+
+## 🚀 Funcionalidades destacadas
+
+<div align="center">
+
+| Función | Descripción |
+|---|---|
+| 📝 **Editor de notas** | Escribe, da formato, añade tareas y organiza contenido visual. |
+| 🗂️ **Grupos inteligentes** | Clasifica notas mediante grupos, categorías, etiquetas e iconos. |
+| 🪟 **Widgets 9:16** | Abre notas como ventanas independientes y personalizables. |
+| 🎨 **Personalización avanzada** | Cambia fondos, mascotas, marcos, bordes, colores y tipografías. |
+| 🎙️ **Dictado local** | Convierte voz en texto en español o inglés mediante Vosk. |
+| 🔔 **Recordatorios** | Programa avisos de Windows desde la propia nota. |
+| 📎 **Archivos y webs** | Vincula recursos locales y páginas web a cada nota. |
+| 🔒 **Privacidad local** | Guarda datos mediante SQLite y protege notas importantes. |
+| 📤 **Exportación múltiple** | Exporta contenido en TXT, PDF, Markdown y JSON. |
+| 🔊 **Experiencia sonora** | Personaliza sonidos de navegación, acciones y avisos. |
+
+</div>
+
+---
+
+## 🎀 Biblioteca visual incluida
+
+Chibi Notes incorpora una amplia colección de recursos para que cada espacio tenga una identidad propia:
+
+| Recurso | Cantidad | Uso principal |
+|---|:---:|---|
+| 🖼️ **Fondos temáticos** | **62** | Personalización del editor principal. |
+| 📱 **Fondos verticales 9:16** | **74** | Ventanas visuales y widgets. |
+| 🐾 **Mascotas** | **662** | Decoración y acompañamiento visual. |
+| 🌈 **Iconos kawaii** | **422** | Identificación de notas y grupos. |
+| 🐥 **Ilustraciones funcionales** | **20** | Centro guiado de herramientas. |
+| 🖌️ **Marcos y bordes** | **12** | Estilos visuales estáticos y animados. |
+| 🔊 **Efectos de sonido** | **23** | Navegación, acciones y recordatorios. |
+| 🔤 **Tipografías** | **49** | Personalización del contenido. |
+| 🎨 **Paletas de interfaz** | **8** | Apariencia global de la aplicación. |
+
+---
+
+## 🔐 Privacidad y funcionamiento local
+
+Chibi Notes está diseñado para que las funciones principales trabajen directamente en el equipo del usuario:
+
+- 🏠 Las notas y preferencias se guardan mediante **SQLite**.
+- 🎙️ El dictado utiliza modelos locales de **Vosk**.
+- 🔊 El texto a voz utiliza las voces instaladas en Windows.
+- 👤 No es necesario crear una cuenta para usar la aplicación.
+- ☁️ La gestión principal de notas no depende de servicios en la nube.
+- 🔒 Las notas pueden bloquearse desde la propia interfaz.
+
+> **Privacidad por diseño:** tus ideas permanecen en tu equipo mientras utilizas las funciones locales de Chibi Notes.
+
+---
+
+## 🧰 Tecnologías utilizadas
+
+### Frontend
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Framer Motion**
+- **Zustand**
+
+### Aplicación de escritorio
+- **Tauri 2**
+- **Rust**
+
+### Backend y persistencia
+- **Python**
+- **SQLite** con WAL
+- **Vosk** para reconocimiento de voz local
+- **PortAudio** para captura de audio
+
+### Distribución
+- **NSIS** para generar el instalador `.exe`
+- **PyInstaller** para crear el sidecar de Python
+- **GitHub Actions** para compilación y publicación
+
+---
+
+## 📦 Instalación
+
+### Descargar la versión compilada
+
+En [**GitHub Releases**](../../releases/latest), descarga:
+
+```text
+Chibi-Notes-v0.4.26-Setup-x64.exe
+```
+
+Pasos recomendados:
+
+1. Cierra cualquier versión anterior de Chibi Notes.
+2. Ejecuta el instalador.
+3. Sigue el asistente de instalación.
+4. Abre Chibi Notes desde el menú Inicio o el acceso directo.
+
+> **Nota:** Windows SmartScreen puede mostrar una advertencia mientras el ejecutable no disponga de un certificado comercial de firma de código. Descarga siempre el instalador desde el repositorio oficial de **Zazen AI Studio**.
+
+---
+
+## 🛠️ Compilación local
+
+### Requisitos
+
+- Windows 10 u 11 de 64 bits
+- Node.js LTS y npm
+- Python 3.10, 3.11, 3.12 o 3.13
+- Rust estable con toolchain MSVC
+- Visual Studio Build Tools con **Desktop development with C++**
+- Windows SDK
+- Microsoft Edge WebView2 Runtime
 
 ### Preparación automática
 
-Desde PowerShell, en la raíz del proyecto:
-
-```powershell
-.\scripts\SETUP_WINDOWS.cmd
+```bat
+scripts\SETUP_WINDOWS.cmd
 ```
 
-El script instala las dependencias del proyecto, crea el entorno virtual de Python, descarga los modelos ligeros de Vosk, genera el sidecar y prepara Tauri.
+El script prepara las dependencias, crea el entorno virtual de Python, descarga los modelos ligeros de Vosk, genera el sidecar y configura Tauri.
 
 ### Ejecutar en desarrollo
 
-```powershell
+```bat
 npm run tauri:dev
 ```
 
-También puedes abrir la versión web para revisar únicamente la interfaz:
+Para revisar únicamente la interfaz web:
 
-```powershell
+```bat
 npm install
 npm run dev
 ```
 
-### Crear el instalador `.exe`
+### Generar el instalador
 
-```powershell
-.\CREAR_EXE_WINDOWS.cmd
+```bat
+CREAR_EXE_WINDOWS.cmd
 ```
 
-El instalador y su suma SHA-256 se copiarán en la carpeta `release/`.
+Los resultados compilados se copian en:
 
-Consulta [docs/BUILD_WINDOWS.md](docs/BUILD_WINDOWS.md) para la guía completa.
+```text
+release\
+src-tauri\target\release\bundle\nsis\
+```
 
-## Estructura del proyecto
+Consulta [`docs/BUILD_WINDOWS.md`](docs/BUILD_WINDOWS.md) para la guía completa.
+
+---
+
+## 🗂️ Estructura del proyecto
 
 ```text
 Chibi-Notes/
-├── .github/                 # Workflow e incidencias de GitHub
-├── backend/                 # Sidecar Python, SQLite, Vosk y PyInstaller
-├── docs/                    # Arquitectura, compilación y recursos visuales
-├── public/assets/           # Fondos, mascotas, iconos, sonidos y branding
-├── scripts/                 # Preparación, ejecución y compilación para Windows
-├── src/                     # Aplicación React + TypeScript
-├── src-tauri/               # Aplicación nativa Tauri + Rust
-├── LICENSE
-├── README.md
-└── package.json
+├─ .github/                 # workflows y plantillas de GitHub
+├─ backend/                 # sidecar Python, SQLite, Vosk y PyInstaller
+├─ docs/                    # arquitectura, compilación y recursos del README
+├─ public/assets/           # fondos, mascotas, iconos, sonidos y branding
+├─ scripts/                 # preparación, ejecución y compilación para Windows
+├─ src/                     # interfaz React + TypeScript
+├─ src-tauri/               # aplicación nativa Tauri + Rust
+├─ CHANGELOG.md
+├─ CONTRIBUTING.md
+├─ CREAR_EXE_WINDOWS.cmd
+├─ LICENSE
+├─ README.md
+└─ package.json
 ```
 
-## Tecnologías
+---
 
-- **Interfaz:** React 19, TypeScript, Vite, Framer Motion y Zustand.
-- **Escritorio:** Tauri 2 y Rust.
-- **Persistencia:** SQLite con WAL.
-- **Voz:** Vosk y PortAudio mediante un sidecar de Python.
-- **Distribución:** instalador NSIS para Windows x64.
+## 🚧 Estado del proyecto
 
-La arquitectura ampliada está documentada en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+La versión pública actual es **0.4.26** y el proyecto se encuentra en desarrollo activo.
 
-## Estado del proyecto
+Los cambios relevantes están documentados en [`CHANGELOG.md`](CHANGELOG.md).
 
-La versión pública actual es **0.4.26**. Los cambios relevantes se resumen en [CHANGELOG.md](CHANGELOG.md).
+Puedes utilizar [**GitHub Issues**](../../issues) para:
 
-Los errores y sugerencias pueden comunicarse mediante [GitHub Issues](../../issues). Las contribuciones de código, traducciones, redistribuciones y versiones derivadas requieren autorización previa de Zazen AI Studio; consulta [CONTRIBUTING.md](CONTRIBUTING.md).
+- 🐞 Reportar errores reproducibles.
+- 💡 Proponer nuevas funciones.
+- 🎨 Sugerir mejoras visuales o de accesibilidad.
+- 🎙️ Comunicar incidencias relacionadas con dictado o audio.
 
-## Licencia y propiedad intelectual
+Las contribuciones, traducciones, redistribuciones y versiones derivadas requieren autorización previa de **Zazen AI Studio**. Consulta [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-Chibi Notes es software de código visible distribuido bajo la **Zazen AI Studio Personal Use License 1.0**. No es una licencia de código abierto.
+---
 
-Se permite descargar, instalar y utilizar la aplicación para uso personal, educativo o flujos profesionales internos. No se permite vender, redistribuir, republicar, crear versiones derivadas ni reutilizar sus mascotas, ilustraciones, iconos, fondos, sonidos o identidad visual sin autorización escrita.
+## 🔐 Licencia y uso
 
-Consulta el texto completo en [LICENSE](LICENSE).
+Este proyecto se publica bajo la licencia personalizada **Zazen AI Studio Personal Use License 1.0**.
+
+Chibi Notes es software de código visible, pero **no se distribuye bajo una licencia de código abierto**.
+
+### Resumen importante
+
+- ✅ Se permite el **uso personal, educativo e interno**.
+- ✅ Puede instalarse en dispositivos Windows controlados por el usuario.
+- ✅ El código puede examinarse con fines de aprendizaje.
+- ❌ **No se permite vender, redistribuir, sublicenciar ni republicar** el software.
+- ❌ **No se permite reutilizar** la marca, personajes, imágenes, iconos, fondos, sonidos ni identidad visual sin autorización expresa.
+- ❌ **No se permiten versiones derivadas públicas o redistribuidas** sin permiso previo por escrito.
+
+Lee el texto completo en [`LICENSE`](LICENSE).
+
+---
+
+## 👤 Autor
 
 <div align="center">
-  <img src="docs/assets/branding/chibi-notes-icon.png" alt="Chibi" width="90">
+  <img src="docs/assets/branding/chibi-notes-icon.png" alt="Chibi" width="88" />
+  <h3>Zazen AI Studio</h3>
+  <p>Proyecto creado y mantenido por <strong>Samuel Acosta Fernández</strong>.</p>
+</div>
 
-  **Copyright © 2026 Samuel Acosta Fernández — Zazen AI Studio**  
-  Todos los derechos reservados.
+---
+
+## 💗 Identidad del proyecto
+
+**Chibi Notes** no es solo un gestor de notas: es una experiencia visual pensada para que **organizar ideas se sienta más agradable, más personal y más creativo**.
+
+Si te gusta el proyecto, puedes apoyarlo de estas formas:
+
+- ⭐ Darle una estrella al repositorio.
+- 🌸 Compartir Chibi Notes mediante su repositorio oficial.
+- 🐞 Reportar errores o sugerir mejoras.
+- 💬 Compartir cómo utilizas tus notas y widgets.
+
+---
+
+<div align="center">
+  <img src="docs/assets/branding/chibi-notes-icon.png" alt="Chibi Notes" width="120" />
+  <p><strong>Tus ideas merecen un espacio bonito. Chibi las guarda contigo.</strong></p>
+  <p>
+    Copyright © 2026 Samuel Acosta Fernández — Zazen AI Studio<br />
+    Todos los derechos reservados.
+  </p>
 </div>
