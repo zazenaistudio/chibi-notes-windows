@@ -126,7 +126,7 @@ El reconocimiento de voz se realiza de forma local y no necesita enviar el audio
 |---|---|
 | 📝 **Editor de notas** | Escribe, da formato, añade tareas y organiza contenido visual. |
 | 🗂️ **Grupos inteligentes** | Clasifica notas mediante grupos, categorías, etiquetas e iconos. |
-| 🪟 **Widgets 9:16** | Abre notas como ventanas independientes y personalizables. |
+| 🖌️ **Widgets 9:16** | Abre notas como ventanas independientes y personalizables. |
 | 🎨 **Personalización avanzada** | Cambia fondos, mascotas, marcos, bordes, colores y tipografías. |
 | 🎙️ **Dictado local** | Convierte voz en texto en español o inglés mediante Vosk. |
 | 🔔 **Recordatorios** | Programa avisos de Windows desde la propia nota. |
