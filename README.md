@@ -75,7 +75,7 @@ Cada nota puede moverse, clasificarse, personalizarse y reutilizarse sin perder 
 
 ---
 
-### 🪟 Ventanas visuales y personalización
+### 🌸 Ventanas visuales y personalización
 
 <p align="center">
   <img src="docs/assets/promo/promo-02-widgets-personalization.png" alt="Ventanas visuales y personalización de Chibi Notes" width="100%" />
@@ -351,9 +351,5 @@ Si te gusta el proyecto, puedes apoyarlo de estas formas:
 
 <div align="center">
   <img src="docs/assets/branding/chibi-notes-icon.png" alt="Chibi Notes" width="120" />
-  <p><strong>Tus ideas merecen un espacio bonito. Chibi las guarda contigo.</strong></p>
-  <p>
-    Copyright © 2026 Samuel Acosta Fernández — Zazen AI Studio<br />
-    Todos los derechos reservados.
-  </p>
+  <p><strong>Tus ideas merecen un espacio kawaii. Chibi las guarda contigo.</strong></p>
 </div>
