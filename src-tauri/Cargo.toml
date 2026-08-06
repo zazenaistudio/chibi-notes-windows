@@ -1,0 +1,23 @@
+[package]
+name = "chibi-notes"
+version = "0.4.26"
+description = "Kawaii sticky note widgets for Windows"
+authors = ["Zazen AI Studio"]
+license-file = "../LICENSE"
+edition = "2021"
+[lib]
+name = "chibi_notes_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+[dependencies]
+tauri = { version = "2", features = ["tray-icon", "image-png"] }
+tauri-plugin-shell = "2"
+tauri-plugin-dialog = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-notification = "2"
+tauri-plugin-global-shortcut = "2"
+tauri-plugin-autostart = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+urlencoding = "2"
